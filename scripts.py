@@ -1,8 +1,5 @@
-from textblob import TextBlob
 import csv
 import collections
-import nltk
-from nltk import word_tokenize
 
 domains = []
 starting_index = 0
@@ -11,9 +8,6 @@ flag = False
 nextline = False
 nextlines = []
 thisline = []
-sentiments = []
-
-#nltk.download()
 
 #Opens and reads the 2019 file, the script and files need to be in the same place on computer
 with open('2017PythonData.csv', 'r') as csv_file:
