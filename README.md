@@ -5,4 +5,8 @@ Scripts.py: Script that first finds all of the URL's suggested in the CSV file o
 
 NLTK2019.ipynb: This script uses NLTK to take in a CSV file that has all of the responses a user provided when they were given a URL. It then takes these responses, tokenizes them and runs a sentiment analysis. Polarity is calcualted and positive, negative or neutral is assigned to each response. This was done for all three years of data.
 
+Output: The output files contain the domain count, the respoense to the URL, and the sentiment analysis of that response 
+
+Input: The 2017, 2018, and 2019 data sets we analyzed.
+
 
