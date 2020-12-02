@@ -1,0 +1,2777 @@
+Thread ID,URL line
+1,"host=ap20-pgs-425.
+"
+2,"Port = 2222
+"
+3,"nice find ! thanks <@Valeri> :taco:
+"
+4,"""Hi, <@Ouida>! Didn't notice your reply. What seemed weird to me was the difference between what <@Valeri> posted for 3.7.0 and my example from 3.7.1. I wasn't expecting that difference between patch versions""
+"
+5,"Thanks will read! have a :taco: <@Raven>
+"
+6,"""I remember someone here linked to a community driven site that links you up with code mentors, for free. Seems I lost that link when my last laptop died. Anyone know the site?""
+"
+7,"""I am writing a script to click previous, next of datepicker but this code only click back 3 months from January 2019, December 2018, November 2018, October 2018 and loop in October 2018 and cannot click next. Could you help me?; Here is my code; ``` def get_conversion_rate_rp_data(driver,month,year):
+"
+8,"ok
+"
+9,"*/2 * * * * python /home/ubuntu/CronNeedOpen.py  this file location every 2 min it hits the CronNeedOpen.py  suppose in that particular file some sytax errors are there how to know that file have error where it stores
+"
+10,"<https://docs.mongodb.com/manual/reference/method/Date/>
+"
+11,":thumbsup: never used mongo ¯\_(ツ)_/¯
+"
+12,"Thanks <@Rocio> <@Maricruz> <@Valeri>  :heavy_check_mark:  solved
+"
+13,"""hloo everyone
+"
+14,"""<@Shanon> typically, you're going to use polymorphism for that; so that you either get an `S3Folder` instance or a `LocalFolder` instance, both have a `.delete()` method, and it's easy to manage in every class""
+"
+15,"                SLACK_WEBHOOK,
+"
+16,"<@Kiera> thanks but no thanks :slightly_smiling_face:; that DO link looks good ^
+"
+17,"testapp.configure({'padx':10})
+"
+18,"""<@Hai> in general:  JSON = JavaScript Object Notation.  It uses JavaScript syntax to describe an """"object"""" (which is represented in Python as a dictionary).  Objects contain keys which are strings (and only strings) mapped to values which may be numbers, strings, objects, or arrays of numbers, strings, objects, or arrays.; in order to produce valid JSON, you need to produce a dictionary which has string keys and values of the appropriate types described above, and feed that dictionary to `json.dumps`.""
+"
+19,"response = requests.get(url)
+"
+20,"""I am able to create SQLAlchemy models for existing database tables and then create an initial migration (the create and drop table script) with Alembic - is there an easy way to autogenerate the models if I do not have a database table with an existing schema?; for example, reading a file with pandas; or reading a directory of different files and creating a models.py file which I can then go into and edit, add primary keys, schemas, etc""
+"
+21,"
+"
+22,"
+"
+23,"    # We rethrow the exception by default.
+"
+24,"no working; i had been trying that work it; I had been trying to make it work
+"
+25,"The above json feed gets updating everyday
+"
+26,"The above json feed gets updating everyday
+"
+27,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+28,"<https://www.w3schools.com/python/python_for_loops.asp>
+"
+29,"""Alowa, anybody out here who can help me for 5 mins in a private chat window with beautifulsoup and some list problems. Spent an awful lot of team reading in the big O-reilly book, stackoverflow and what not but cannot seem  to grasp the concept (clean up data from nested list and writing it to a file)""
+"
+30,"""Hey! 
+"
+31,"""<@Lucius> It already looks okay in terms of indentation level. Certainly you could factor out more functions, but I'd say it would be your choice of how to do it. Find any bit of code that looks like it could be self-contained, create a function from it, and only return whatever is needed for the next part of the program""
+"
+32,"""so, I’d advise not using it and use the suggested `pipwrap` lib <@Rufus>""
+"
+33,"For my use Case:I need to sort &amp; count uniq contents in those lists.Means , the flow of program is :
+"
+34,"For my use Case:I need to sort &amp; count uniq contents in those lists.Means , the flow of program is :
+"
+35,"""<@Jennifer> Gonna try to creep up on this slowly, because you are getting object __str__ in the output, so things might go sideways. First try:; ```
+"
+36,"What is the prefered way to distribute python programs?
+"
+37,"""<@Bart> Also try VS Code for Python. It's open source, and is quite good: <https://code.visualstudio.com/docs/python/python-tutorial>""
+"
+38,"""<@Harvey> for other developers, create a package. Try Flit: <https://flit.readthedocs.io/en/latest/index.html> or Poetry: <https://poetry.eustace.io/> . Use them to package your code and to publish it in <https://pypi.org/> . There are many tutorials using `setuptools` and `setup.py` files, but for new packages is way easier to use these new tools.
+"
+39,"
+"
+40,"""*Create an MP3 file from samples?*
+"
+41,"""<@Jettie> Thanks, just read the documentation but can't see a clear way of doing this. Is it something a beginner could achieve?""
+"
+42,"
+"
+43,"
+"
+44,"""im still so speechless, and when im speechless i need to take a week or a year off, better yet why not until 2025,
+"
+45,"...
+"
+46,"""What would be a good catch method for text entries? This code currently outputs the text entry that needs to be fixed, but it doesn't notify which entry. There are 4 text entries and I need the catch method to define which variable is error-ed out?""
+"
+47,"
+"
+48,"""```python example.py
+"
+49,"  SNIMissingWarning
+"
+50,"  InsecurePlatformWarning
+"
+51,"Does anyone know how to get pycharm to NOT run scripts in the python console and instead run them in the actual run portion
+"
+52,"did you goto that url?
+"
+53,"`BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))`
+"
+54,"ah'; have you begun to look at the log files?
+"
+55,"Would it be alright if I ran it on port 8020? There’s a wordpress site being displayed on port 80. My Django proj is just backend stuff; they already had apache on the server so it seemed easiest
+"
+56,"wtf
+"
+57,"""apparently, they are gone again.; like, i realize that i was brash, but i definitely answered his question before i laid into, be a better human because you currently suck.""
+"
+58,"The above link get updated every 5 min
+"
+59,"None; got it thank you every one
+"
+60,"okay I will try out (with); thank you all for helping
+"
+61,"booo
+"
+62,"""There may be an easier way to do this if there's a """"blank Q"""" object to start with. Or maybe do a reduce with operator-OR.""
+"
+63,"So page auto reloading not redirect page (edited)
+"
+64,"Why are you using `json.dumps()`?; What does `cur.fetchall()` give you?
+"
+65,"```TypeError: argument of type 'datetime.datetime' is not iterable```
+"
+66,"""<@Leonore> <http://weworkremotely.com|weworkremotely.com>, <http://remotepython.com|remotepython.com>, keep an eye on the Hacker News who is hiring thread. (<https://news.ycombinator.com/> the Who is Hiring thread posts on the First workday of every month. Here is January’s <https://news.ycombinator.com/item?id=18807017)>""
+"
+67,"""Hey guys,
+"
+68,"""as you get comfortable, i’d start researching topics on how to properly structure your schema to get the best performance for your data.; implement a new schema and play with that while using data.; id start with that anyways""
+"
+69,"ty
+"
+70,"""def is_pangram(sentence):
+"
+71,"""Is constructor overloading is possible in python via this way?
+"
+72,"
+"
+73,"""Thanks, i’ll check it out. <@Lydia> :taco:""
+"
+74,"""this is cool, but horrible in my opinion...; doing too much sorcery with Python makes the code very hard to read""
+"
+75,"""you could be correct; &gt;Last image is skipped
+"
+76,"<@Jettie> :taco:; perfect; the pause between frames must have been the issue
+"
+77,"AFAIK Decimal is the best best
+"
+78,"""<@Shan> yeah, looked into Poetry. Would be OK with using this, but I'm still equally unsure of how to do what I'm asking. There doesn't seem to be any option or section of the toml file or anything that relates to saving private user info. Also doesn't really help with best practices for saving stuff like this (should it be saved in a user directory, and the package should just expect them to be there? or...)""
+"
+79,"""Always be sure to think about the consumers.  Honestly, the biggest deterrent of most things, ease of use.  If you require some complexity in your configuration, outside of the standard norms, it may not be appreciated and used as much.  ""
+"
+80,"""Does this not work for you?
+"
+81,"
+"
+82,"I'm not a lawyer or anything but afaik it is if you don't change the license; but it might be interesting to discuss with the original author if a fork is really necessary. Maybe they are willing to add what you need in it ?
+"
+83,"````""
+"
+84,"""from sklearn.datasets import load_iris
+"
+85,"""I think i see what you're saying. So instead my if function should just test to see if i is a in the alphabet. And i was wanting to add i to alphabet if it wasn't already in there. So now i have this. It's still failing but hopefully i'm closer to the right idea now.                                                                            def is_pangram(sentence):
+"
+86,"Is there anyone here familiar with SQLAlchemy?
+"
+87,"And there's also <#C1PB8ME48|sqlalchemy>
+"
+88,"Hi all. I have a problem. I am trying to model users in my application and only one kind of user has a relationship with a model called `Department`. Basically the user in question belongs to a department but other users of the application don't need to have a relationship with a department.; How do I model the different users? Should I have a different model for each kind of user or is there a way to model this while using one `User` model?
+"
+89,"""It looks like it's using numpy arrays here, so an array slice is probably the way to go.""
+"
+90,"""Are these outputs valid ?  :
+"
+91,"""It's at least claiming 98-99% accuracy on the trained model, so there's no immediately obvious error. Are you suspicious of it for some reason?""
+"
+92,"great thanks
+"
+93,"oh gross.
+"
+94,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+95,"much more readable
+"
+96,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+97,"please refrain from using pictures.
+"
+98,"""Wow, Worked perfectly <@Shan> I was thinking in use a for to extract , use join and append to a list, your approach is much better. I was doing wrong using '(' and ')' beacause clearly should give me groups for each part of regex, Thanks a lot!""
+"
+99,"""somebody help please? am trying to mocking user input as key and value dictionary and wanna do Python unittesting, but couldn’t find online resource or example""
+"
+100,"""Thank you <@Conrad>, will definitely look into this. I’m confused as to why aws is giving me a different response even though I explicitly said I want the PST timezone. :taco:""
+"
+101,"""I wrote the comment, then I thought """"hmm, is that really Bash syntax or am I just making it up? I should check it before posting.""""
+"
+102,"""ah, yeah, that would be helpful""
+"
+103,"""Thanks, nice find. I tried some of the methods listed here and it illuminated another issue I think I need to solve first. ```AssertionError: 2 columns passed, passed data had 34 columns
+"
+104,"""Sorry got hit with a powercut here, looking into it now; The results are correct; I did modify so `headers=False`, same result""
+"
+105,"can somebody help here please <https://pythondev.slack.com/archives/C07EFMZ1N/p1547543796309000>
+"
+106,"""<@Jimmy> <@Clemmie> Thanks you, i will look at it !""
+"
+107,"""Anyone knowledgeable on adding sheets to an excel file using pandas? This code ends up overwriting the entire workbook or sheet. (one or the other, I only had 1 sheet in the workbook to begin with). Some examples as shown here: <https://stackoverflow.com/questions/42370977/how-to-save-a-new-sheet-in-an-existing-excel-file-using-pandas/42371251> look similar to what I have and I am not sure how it is different in the form of telling it to add sheets rather than overwrite them.""
+"
+108,"""<@Olevia> it sounds like you mean divergent and convergent in the context of a mathematical series, is that right?; As in, a convergent series is one where limit of x -&gt; infinity is well defined""
+"
+109,"""For the moment i need to check if a series is convergente or divergent, then i will check the series has a limit""
+"
+110,"""Wait, if this is for homework shouldn’t you be coding the algorithm?; Basically implementing what you read in that link? (Which I have not read, just glanced at)""
+"
+111,"""I've tried with a list like [1, 2, 3, 4, ...], it's easier, but i think if i want to do a very good function, it should be a mathematical function; I think i will see if it's possible to use finite sequence, it would be much easier to try to develop""
+"
+112,"I'm in 2.7 still; Requests is 2.19.1; How do I figure out what the encoding is?
+"
+113,"""Hey <@Hiroko>, thanks for getting back to me. It looks like the issue with with /python3.6/functools.py tho, which is part of the requests package. Basically, I’m trying to make a url request, but functools.py line 370 keeps failing and trying to call itself again and again; is there a known issue with functools.py?""
+"
+114,"        response.raw.read = functools.partial(response.raw.read, decode_content=True)
+"
+115,"""I am Getting this error message while running `from NseTools import nse`
+"
+116,"I understand my memory concerns; What I need is an alternative way to accomplish this; A system with 16GB ram is enough to allow uploading 2MB file to a database I think :thinking_face:
+"
+117,"""I am Getting this error message while running `from NseTools import nse`
+"
+118,"thanks <@Shan>  currently not at desk i will change and revert 
+"
+119,"""That's probably just slurping everything into a single column, though. The problem is the trailing comma, which implies an extra column. Do you have any control over how that file is generated?""
+"
+120,"""thanks ill give it a read; ```&gt;&gt;&gt; s = smtplib.SMTP('localhost')
+"
+121,"""well i tried to directly insert the data creating a new dataframe, but its giving an error """"Shape of passed values is (1, 10), indices imply (10, 10)""""""
+"
+122,"""<@Mica>, its not a Python frontend as such......I just want to use Python in the current HTML/CSS template I have to communicate to an existing REST API, dont know if this make sense""
+"
+123,"I don’t think I follow this but i’ll reread it a few times
+"
+124,"Okay thanks guys this looks promising; <@Caridad> :taco:; <@Claudine> :taco:
+"
+125,"seems like it has to do with how you execute run.py
+"
+126,"okay
+"
+127,"<@Conchita> I’ll suggest you this video as a brief introduction : <https://www.youtube.com/watch?v=F37fV0uFf60>; And this course has a nice hands-on w/ Pandas <https://www.coursera.org/learn/python-data-analysis>
+"
+128,"""How can I merge a list of attributes to their associated dictionarys?  My process uses request calls to a list of names, which then I need to make another separate resource request to get individual characteristics that i have to loop each individual separately.  For me to use them later I would like to attach names with their corresponding information.
+"
+129,"""You need to break your problem down if you want anyone to answer that, your current question is really, really specific; as I understand it you want to persist something (a login token) across processes. So, you could use something like Redis, a database or even something as simple as a plain-text file; When your beat process starts, just check if the token is there. If it’s not, log in and store the token. If the token has expired and you get an error, repeat the process above.; Protip: When writing a question on stack overflow (or anywhere else) make it as general as possible. If you can’t, then you don’t understand the problem well enough and you should work on improving your understanding of the problem :+1:""
+"
+130,"""[Windows] Hi all! I'd like to fully convert to Python Launcher on Windows in our organization. However lots of our scripts look like
+"
+131,"""Oh right, I misread the original question.; I’d just fix the scripts; seems the more correct way, rather than removing python from the PATH""
+"
+132,"req=urllib.request.Request(url,headers=hdr)
+"
+133,"""Oh, I think I see. You need indents for your `if` blocks. I'm surprised you don't get an interpreter error.""
+"
+134,"none of that is particularly pythonic :confused:; the reason the `process_matches` is slow is the mongodb insert I expect; and it’s full of mixed concerns
+"
+135,"I have the hardest times with code snippets in Slack.....
+"
+136,"<@Hiroko> hmm nice one. but i dont think this will exactly fit my need; any other better approaches to control this in python; I want to split a list into batches
+"
+137,"""yes, how would i implement something simple in python""
+"
+138,"""at the moment bs4; sleep will do actually, thanks""
+"
+139,"""Advent of code has some interesting problems as well, although they are more focused on algorithms than general problem solving.; And can of course be solved even though it's not december""
+"
+140,"""Has anyone here done some heavy production level work with schedulers? E.g do something at a specific time, interval, at this timezone
+"
+141,"
+"
+142,"""Yes, I have datadog logging a bunch of stuff. I can show you some interesting graphs.
+"
+143,"""haha, yes its basically like - have you turned it on? :joy:""
+"
+144,"""The first one is total requests, and 3rd is latency. Both are actually for postgres, the db""
+"
+145,"And won’t be implemented anytime soon; <https://www.python.org/dev/peps/pep-0426/>; There really isn’t a need for that kind of rigid hierarchy with python. The conventions are less enterprise-y and more relaxed 
+"
+146,"""Yes, PEP-423 seems more like guidelines. I don't think there is much to implement per se.""
+"
+147,"""(Btw, thanks for your very unique nickname!)""
+"
+148,"``` I have tried both format methods as you can see in my code. I suspect it is because of the parenthesis here, but not sure how I should get around this?; I removed the rest of the scraper logic for readability""
+"
+149,"
+"
+150,"
+"
+151,"
+"
+152,"```""
+"
+153,"""If I understand your question, it looks like the module has a `convertToCsv()` method which takes a string and outputs CSV lines.""
+"
+154,"""thats what i see a lot; as soon as i first researched global variables (because i used them frequently in vba for excel), I was telling myself """"stay away...:zany_face:"""".""
+"
+155,"run `python --version` for me?
+"
+156,"yes
+"
+157,"""ok, wait, think I figured it out but now I'm haivng another problem; now its stuck at receiving the response; alos openssl command looks like its working; <@Jonas> any ideas ?; fixed :smile:; AAAND i'm a total idiot""
+"
+158,"""back in my previous company, we used setup.py based installations for our projects and we have a requirements.txt and requirements_dev.txt. The latter had requirements such as pytest and nose; I don't quite remember what our deployment pipeline was like. we did have CI.""
+"
+159,"Does anyone know what python method is run during tear down in the with statement?; Trying to mock is out so it doesn't destroy the magic mock/patch
+"
+160,"Can you elaborate <@Nery>? you need to mock out a method that destroys a magic mock?
+"
+161,"SNES Nostalgia
+"
+162,"<@Hiroko> 3.4 asyncio is some preliminary version IIRC; e.g. used decorators and `yield from` syntax for coroutines
+"
+163,"<@Earleen> its highly dependent on your hardware
+"
+164,"I got fed up with that approach and decided to lookup the /proc filesystem instead. gives me what I need.""
+"
+165,"I can't see anything like devices in his profile
+"
+166,"Uhm; What made you want to install that?
+"
+167,"""I have seen it, but i want from Phill to 22""
+"
+168,"The second link is wrong. 127.0.0.1 isn’t the IP of a VM when you are SSHing in from the host.; That’s why it failed for that person ; Checking first one
+"
+169,"""i saw that 2nd link on google results but never looked at it. but now i should have; this is a work computer and i doubt they'd care if i setup ssh on this pc, but i'd just use a vm to make things more manageable for our IT guy (so he doesn't have to mess with it).""
+"
+170,"""oh yea, thats perfect!; found: <http://www.tldp.org/LDP/intro-linux/html/index.html> through that link; thanks""
+"
+171,":+1: TLDP is a great resource..
+"
+172,"<@Rodrick> you come up with anything?
+"
+173,"   &lt;Header/&gt;
+"
+174,"""<@Marc> No, not yet.""
+"
+175,"""I don't have an answer, other than to say pipenv is hell.""
+"
+176,"######################################################################## 100.0%
+"
+177,"""Not including _required_ packages in the install docs is really poor form. :confused:; """"optional"""" – no, if it doesn't work without them then that thing isn't optional.""
+"
+178,"Installing Python-3.6.4...
+"
+179,"""I have already installed xcode a lot of time ago :thinking_face:
+"
+180,"Done.
+"
+181,"
+"
+182,"""None; that works in PG, but I'd like to do something similar with a dataframe; I am not looking to load the data to PG, but rather create a JSON file in that format""
+"
+183,"   d.addCallback(log_result)
+"
+184,"run `python -m pip freeze`
+"
+185,"""Guys perhaps you could help me out a bit to flesh out a class that would implement a certain behaviour. So basically the way I want to use it is:
+"
+186,"<@Coleen> what kinds of methods?
+"
+187,"What's the drawback on long f-strings?; It's like a template with no grammar and no dependencies
+"
+188,"i feel you're gonna tell me that world exists
+"
+189,"""My newest notebook:
+"
+190,"""I use POSTMAN to test my REST API. Now trying to Automate it using PYTHON
+"
+191,"
+"
+192,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+193,"Is the API expecting a form post or a JSON string as the payload? You may want to look at `response.text` to see whether it's sending what you expect.
+"
+194,"just use `my_list.append({'blah': 'xxx'})` ?
+"
+195,"Thanks <@Ashley>
+"
+196,"I take it you're just attempting to determine if the mail server comes back with an error when you do 'rcpt to: ' in an SMTP session?
+"
+197,"
+"
+198,"""For one of my scripts that runs continuously, how do I catch when I lose internet connection? I have tried catching this one `requests.exceptions.ConnectionError` , but failed""
+"
+199,"Thank you very much.""
+"
+200,"Sorry.
+"
+201,"I'm very inattentive
+"
+202,"""anyone got pexpect/pxssh to work with windows ?; I don't know what to google to find a solution to my problem, but running my code line by line will print the entire output whereas if I just run it straight, it outputs only the first line?""
+"
+203,"    print(smtp.docmd('helo hi'))
+"
+204,"Thanks for the help!
+"
+205,"<@Lamont> go ahead and paste your code here. (use the + button and choose ‘code or text snippet’)
+"
+206,"None; <@Sasha>
+"
+207,"Can anyone help me install Mongodb? Mongodb failed to start and i can't figure out which version of kb2999226 to download.
+"
+208,"""I'm not sure, but I think HTTP error codes are given to the listener's `on_error()` callback. So you might need to raise an exception there if you want to handle them that way.""
+"
+209,"Can you elaborate more on the X you're talking about; ?
+"
+210,"""Great, reading now""
+"
+211,"Clients are always better tho; You won't need to handle network errors yourself; at least
+"
+212,"Boom! That worked <@Jimmy>; Have a hot :taco: <@Jimmy> Thank you
+"
+213,"this problem is driving me insane - given a arbitrary string - return a list of valid json strings/ objects. Is there any way to do this easily without regex and recursion? <https://stackoverflow.com/questions/21994677/find-json-strings-in-a-string>; I dont want to implement some kind of lexical parser...
+"
+214,"Can you show us your i/p?
+"
+215,"And you need a solution using python or php?
+"
+216,"""Your use case is pretty straightforward imo; You just have to pickup stuff between `{}` and form a dict right?; To convert a string back to json you have `json.loads()`; <@Renna>; So, what exactly are you trying to achieve?; And tell us more about your use case?""
+"
+217,"    ~(inter_freq_internal_freq['eNodeBName'].isin(sites_file['*eNodeB Name']))]```; i would break from there but the `~(inter_freq_internal_freq['eNodeBName'].isin(sites_file['*eNodeB Name']))` is way long and is pretty much a separate thing; so i would assign that to a variable and then use that in the outer bit; ```dat_thing = ~(inter_freq_internal_freq['eNodeBName'].isin(sites_file['*eNodeB Name']))
+"
+218,"""```
+"
+219,"""the documentation may be wrong tho, github on master has `is_async`; or the package is installed straight from git""
+"
+220,"""numpy==1.14.2; I'll look into those issues, thanks <@Hiroko>, appreciate it""
+"
+221,"""thanks for the help again, I just made a venv with python3.6.8 and it worked out. Upgrading numpy to 1.16 didn't work. Incase you wanted an update.""
+"
+222,"<@Kiera> never heard of that nor have i come across it through my research. ill definitely check it out. thanks.
+"
+223,"Can you show the code for your `project_list` view?
+"
+224,"If you're using older stuff: <https://winscp.net/eng/docs/guide_windows_openssh_server>""
+"
+225,"""yes, it is. I can add new instances in the admin panel""
+"
+226,"""Using a string. """"key"""", not key; this is a <#C07EW4DNE|learning_python> question IMO""
+"
+227,"oh yea. that will defintely make up for what i am trying to do; its frustrating that i sometimes am unable to find solutions like so
+"
+228,"""Seriously thanks, every where else in my code I had the correct string represented and I just got stuck...""
+"
+229,"""<@Jonas> but if its truly ephemeral, why even use a property? That isn't what I would expect as a consumer of your api""
+"
+230,"Can anyone direct me to a decent guide/tutorial on how to deploy multiple python apps on one digital ocean VPS? I currently have a django app running on a VPS with nginx and gunicorn. Now how can I deploy a flask app on the same server? Please and thank you.
+"
+231,"Thank you
+"
+232,"""<@Conchita> Im at chapter two, so far it seem alright but i have no comparison to any other ML book. Only started reading it because its short and i can try stuff out on python.""
+"
+233,"by using PySimpleGUI i am able to display the selected pdf.; But i want to display the list of pages in sidebar
+"
+234,"so do i `import modules.module` after creating init there?; or just `import module`
+"
+235,"""Need some advice on this. I have a table that stores user events e.g. event_id = 0 might be an entry and event_id = 1 might be an exit.
+"
+236,"""<@Elene> awesome, thanks for your help!""
+"
+237,"""well with every scrape I have a title. with this title I want to make a unique ID; since an int is way faster to put away in sql; so `"""" this is a title""""`, and when I hash it to an int will be `""""34504038584""""` (example)""
+"
+238,"""I have 2 entries, but that’s because the timestamps are unique, if you wish you can completely ignore the milliseconds; ```
+"
+239,"""Will check this out - thanks for the advice, owe you a :coffee: or :beers:!""
+"
+240,"""<@Sau> Like the bot says, if you can give a little more overview, maybe we can help""
+"
+241,"<@Randal> you could give it a unique name and try some find utility to try and find it on your harddrive; if you know where it ends up on your drive could give a hint why it gets there
+"
+242,"""I'm trying to find a good resource on how to leverage `map` tasks in celery, but nothing I've found gives practical examples. Does anyone have experience with this?""
+"
+243,"""I am cleaning data. My csv file contains company name and website but for some reason there are url in my name column. So i want to print all the urls in the name column. Above code gives me """"'float' object has no attribute 'startswith'"""" error
+"
+244,"<@Clemmie> if str(x).startswith('http'): worked thank you; <@Sparkle> yes they are mixed
+"
+245,"oh cool
+"
+246,"""i mean you can pass a general pattern to hopefully catch most cases - basically `\S+\.[A-Za-z]{2,3}`  usually url regex are more robust - but in the interest of not needing to know about all edge cases and just wanting to flag if the string looks like it might be a url - `\S+` means any consecutive non-spaces, then a literal `.` followed by ether `2 or 3 letters`""
+"
+247,"wow just 1 statement can check for all the cases thats awesome
+"
+248,"""```
+"
+249,"""<@Francesca> It's basically doing string variable substitution. If `""""key""""` is in `vardic`, then it replaces `""""{key}""""` in the string with the associated value in the dict.; It's not immediately clear to me why your colleague implemented this instead of using `str.format()`.""
+"
+250,"""i just stumbled upon that, i’m gonna give it a shot; thanks!""
+"
+251,"""hmm i dunno if this will get me what i need, but it’s useful for sure; i think some creative use of `filter()` might be what i need""
+"
+252,"""ive done that a year ago, i can check my code wait some minutes; ok, used cx_freeze; here is the setup; ```from cx_Freeze import setup, Executable
+"
+253,"""So I’m trying to work with a subprocess where the subprocess is asking for input, but I want to store the output; input gets passed to the process. But as I’m storing the output in subprocess.PIPE it isn’t being shown on the screen; I’m probably missing something but I rarely use subprocess; Anyone know a way to print the output while still capturing it?""
+"
+254,"thank you <@Clemmie> I will read this as well
+"
+255,"""thanks <@Carmen>, Can you tell me what do you mean by top level package.""
+"
+256,"""ha, missed that entirely; sorry!""
+"
+257,"is adding the __init__ a python 2 thing? I've never had to do that before?
+"
+258,":rubberduck: :grinning:
+"
+259,"response = urlopen(link)
+"
+260,"you Rock man!
+"
+261,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+262,"None; are you able to see
+"
+263,"""as in read, write, append, etc; pretty much what <@Mica> said; so right now you’re opening the file in read-only mode""
+"
+264,"""I don't know if this is an algorithmic issue or a Python issue, but my greedy approach to 2D peak finding is blowing out the recursion stack.; None""
+"
+265,"question; if im using zip even though I cast it to a list for some reason im returning a generator object; None
+"
+266,"hmm tried using that.. somehow its not getting timed out.. never mind
+"
+267,"<@Leana> I am a pretty bad offender however someone asked me the other day what I found most useful when learning to code - how to know what you are trying to ask
+"
+268,"It is a tech channel where you can find videos on programming. Mainly we make videos on ML,AI and Cloud. Anybody want to contribute to us please contact us. Please subscribe the channel so that we can teach people free of cost. Your one subscribe can help a lot
+"
+269,"""how would pickling the data make a difference? I've worked with pickle, just not necessarily for that.""
+"
+270,"""yea read_csv definitely stores it into memory. mem usage doesn't spike too bad, but any lower end pc may hate having to load that big of a file everytime.; trying that atm to see the difference""
+"
+271,"""thanks <@Hiroko>, i will do some modifications""
+"
+272,":eyes:
+"
+273,"Hey all. Not sure if this is the best channel for it but am looking for a freelance dev in Australia to help with some work over the next few months. DM me if you're interested. Have a taco-licious day :slightly_smiling_face:
+"
+274,"parsed = urlparse(url)
+"
+275,"```; if you see the input and output are the same, not sure where i did wrong?""
+"
+276,"""well or basically:
+"
+277,"        self.go_state_connected(); go_state_connected dosent get called""
+"
+278,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+279,"None; None; None; None
+"
+280,"""<@Hiroko>: almost everything is turned on.; same with intentions; well, it does suggest type hints""
+"
+281,"<@Javier> where are you running the script from?
+"
+282,"My phone is dying I'll have to look at that later.
+"
+283,"
+"
+284,"the top answer seems like the best
+"
+285,"nice find <@Jettie> :thumbsup:
+"
+286,"web_1        | DEBUG amqp 2019-02-05 14:08:00 using channel_id: 1
+"
+287,"DEBUG amqp 2019-02-05 15:29:35 using channel_id: 1
+"
+288,"but since in the docker environment there is a hang and not an exception, it doesn’t feel like the exact same thing….
+"
+289,"if you `docker-compose run` the container you can attach
+"
+290,""":parrot: I managed to hit a breakpoint and get a console!
+"
+291,"is use ```if form.validate_on_submit():``` for froms; o you are already using that; does what you have not work?
+"
+292,"what happens when you put a pdb breakpoint after the log call and step into the next  line?
+"
+293,"<@Hiroko> sure thanks so much I will try that
+"
+294,"""Hello All, can anyone suggest how to find all social media links linked to person, we have person (name, email, phone number, location ). Thanks in advance""
+"
+295,"whats that..?
+"
+296,"<@Chester> posted a good link as well <https://www.mikeash.com/getting_answers.html>
+"
+297,"is it possible to run assembly with python?
+"
+298,"^ looks windows-only though
+"
+299,"""Even though this is really abstract hacky python, it's still interesting.  :taco:  <@Carmen>; particularly `super().__init__(C.foo)`""
+"
+300,"""I'm planning to ugprade to python 3.5 soon. so is the author of the overall platform, which is where this bug first appeared.""
+"
+301,"    use_natural_foreign_keys=True,
+"
+302,"""I saw this post but got lost in it - sorry…  Thank you!; Changed it and then also made `msg.body = MIMEText(email_content, 'plain')` to `msg.body = MIMEText(email_content, 'html')`; And it is working!  You are my SUPERHERO for the day!  Merci!""
+"
+303,"""Not really, if you're doing something like that then you need to use strings and handle cases where the key does not exist ; I'd recommend avoiding that pattern if you can, as you mentioned there are annoying downsides ""
+"
+304,"""Interesting suggestion. I just tried running the command prompt as an administrator, but no luck. Anything else I should try permission-wise?""
+"
+305,"Does black support single quotes yet? :disappointed:
+"
+306,"i put the data temporarily into a dictionary and converted that to a df to see what the data looks like. I think i need to clean it up a lot before I can properly insert it to a df
+"
+307,"I did not know you could do this: `int_value = int(string_number or 0)`; if `string_number` is `None` then `int_value` is set to `0`
+"
+308,"""Hello, complete newbie here.
+"
+309,"""@Simo Never used Falcon. So I’m not sure. Flask is very popular, so you’ll probably have more tutorials available for it.""
+"
+310,"""So you need to be somewhat careful about what you offload to a thread, if it calls a C function that doesn't release the GIL then bad things can happen""
+"
+311,"I was just looking there
+"
+312,"""I personally have issues with Flask architecture, including the use of globals; so for me, it made more sense to build with aiohttp.; also, aiohttp is compatible with uwsgi, whereas quart will need to use uvloop, Daphene, or another ASGI compatible server""
+"
+313,"
+"
+314,"""but there’s also no mention of aiohttp, just a critique; <@Deangelo> its effectively flask + aiohttp""
+"
+315,"hey guys anyone here work with scrapy and regex? trying to extract something out of the source code of a page with scrapy
+"
+316,"""Ultimately, it's not valid json, so there's not a sane way to do that verification.; Anything you do is going to be hacky to some extent or another.; You could probably try something where you replace all the single quotes that aren't escaped, but there's no guarantee that won't mess up something deeper in your json string.""
+"
+317,"What is `extras`?
+"
+318,"<@Sasha>: ah ok... but still not sure why it doesn't let me see the line break
+"
+319,"""<@Chester> Thanks for the response and update, but when I use create_comment, I am getting the below error
+"
+320,"""<@Valeri>
+"
+321,"Hello; I want to add the reset function on QSpectrumAnalyzer... (<https://github.com/xmikos/qspectrumanalyzer>); Can someone help please with some questions that I have?; Anyone?
+"
+322,"Don't ask to ask – simply ask your question.
+"
+323,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+324,"check the inline code formatting link above
+"
+325,"""sir_botalot. haha, can you provide some example of good question formats? that's my struggle.""
+"
+326,"""""""Hello! I'm working with [insert tool here], and it's giving me an error message [add error message here] when I try to do [XYZ task you're trying to do]. Does anyone know what this means and how to fix it?""""""
+"
+327,"`python setup.py bdist_wheel &amp;&amp; twine ...`
+"
+328,"
+"
+329,"```
+"
+330,"```
+"
+331,"```
+"
+332,"f2 is a user-defined function so that's not a problem
+"
+333,"how to solve syntax error in python?
+"
+334,"rip wrong one my bad :stuck_out_tongue:
+"
+335,"good article on imports ^^; also assuming it's installed and you're using python3.7 you can follow the first example in this: <https://docs.python.org/3/library/smtplib.html>""
+"
+336,"explain me the code for import packages using smtp in python
+"
+337,"ok...send me the code for online quiz using smtp; the result of the quiz is send via email; language is python
+"
+338,"""ok; i = 1
+"
+339,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+340,"""i = 1
+"
+341,"ok; how to learn python in advanced?
+"
+342,"^^; or <http://codeacademy.com|codeacademy.com>
+"
+343,"""Hi all, sorry for the intrusion. I'm kinda stuck with the usage of hmac in headers. (image from postman headers)
+"
+344,"Thanks <@Jimmy>! :taco: I thought the `hmac` value on the headers was something special. I'll try doing a request first using the signature generated and constructing the header value for `Authorization` as a string.
+"
+345,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+346,"what's the issue?
+"
+347,"""Not to be rude <@Aracelis>, but you should probably start with a beginners introduction to Python with examples and questions. These are very basic questions, and a large part of being a programmer is learning to read and use resources such as guides or documentation.""
+"
+348,"Have you looked up how to do that?
+"
+349,"or on the offical documentation here: <https://docs.python.org/3/reference/import.html>
+"
+350,"
+"
+351,"""there are some good books, etc to continue learning""
+"
+352,"you could look over that list and try something with the green?
+"
+353,"but it might be best to ask in <#C0JB9ATQV|data_science> directly :slightly_smiling_face:
+"
+354,"""blech; ```soup = BeautifulSoup(html, convertEntities=BeautifulSoup.HTML_ENTITIES)```""
+"
+355,"it seems to strip tags and entities but you can modify it""
+"
+356,"<@Maricruz> try `python -m pip` instead of `pip`
+"
+357,"""Will try that. I'm not sure if `${ham}` does not result in """"{'foo': 'bar'}"""" though. Currently doing it on postman""
+"
+358,"I have contacted one, but wanted to see if anyone has any information on this here.""
+"
+359,"<https://stackoverflow.com/a/39429578/1809168>""
+"
+360,"""ye, you can do `def foo() -&gt; Optional[int]` which means return `None` or `int`""
+"
+361,"`Thu` just to remove?
+"
+362,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+363,"""so the issue is when you do `x, y = class_instance()` is it tries to divide the instance amongst the variables `x` and `y`""
+"
+364,"""TypeError: can only concatenate str (not """"int"""") to str""
+"
+365,"""Err, using the data you provided, then `f` would be:
+"
+366,"""Im having a hard time figuring out the proper way to have an entire class fire. I have my main module (tkinter) which uses stored variables to be fired off within another module. i.e. enter date and date is used in the other module. the issue is that I am having to type out each function separate and i have a feeling this is not the right way, or at least the best way, to do this. Another issue is that in the line """"SSH_Invoices.c_date = self.page1_sel_date.get()"""" - """"c_date"""" does not get stored.""
+"
+367,"""So I honestly don't know what a good initial value for `f2_param` is, I was just putting a placeholder there that you could replace as-necessary.""
+"
+368,"""As for how I was providing the parameters to `f1_image`,  I was basing it off of the documentation of the function. It appears to take your `f2` function as the first parameter and the image as the second parameter. The `new_f2` function is my way of converting the 2-parameter function into a 1-parameter function, which is what the `f1_image` function is expecting.""
+"
+369,"""I’m with you.; Every solution that codes a combination, does so in one big list.; Actually hold up. I dont’ think this is correct.; Because a child can have up to one cookie""
+"
+370,"""<@Junior> I think this really depends on how big your application is, what it's actually used for and if you know or are willing to learn python""
+"
+371,"None; <@Sasha> <@Cory>
+"
+372,"now getting these logs
+"
+373,"""Once you explained that """"you want a function with this signature and gives this output for this input"""", then it was a case of figuring out the correlation.; I came up with the formula using the good ol' trial and error method. :wink:""
+"
+374,"""I feel like that post is not suitable for here, and better for stack overflow; It's also a bit too verbose and may be hard for non-native speakers to read""
+"
+375,"""that’s it… I should probably re-do that slash command; <@Jonas>, <@Mica> thoughts on the above?""
+"
+376,"I m ok. But i want to use it like this: ipy add (ip) (name) not like python3 myscript.py role=add ip=123.123.123 name=myname
+"
+377,"
+"
+378,"""No, it’s not a flag, unfortunately… it’s either `--name NAME` or `--id ID`""
+"
+379,"""Yeah, I read that, it’s not my use-case since it’s not a flag, I need to pass a name or an id; I think I can adapt `MutexOption` for my case though""
+"
+380,"Eventually I want to add mail exchange, namerserver and other records for each domain..""
+"
+381,"
+"
+382,"None; Pls what am i missing?
+"
+383,"None; <@Shan> <@Sasha>
+"
+384,"
+"
+385,"""I usually run black, pyflakes, and mypy and then there is manual review""
+"
+386,"""if theyre not doing that, there’s a bigger problem""
+"
+387,"""a lot of this just seems to be built off of the existing linters really; another thing I'll add, and I hope I'm not beating a dead horse here, but it's coming a up a lot as I get deeper into the new place I'm at so it's on my mind - anything automated to tell you things that isn't designed to require a response is destined to be ignored.  my prediction is if this is just an advisory thing on your PRs, people start out peeking at what it says, but will begin to ignore it as they realize it has no bearing on whether their work gets merged or not.; worse - they may internalized its continued griping about their """"shitty code"""" and get demoralized.; so if you want to integrate tools like this into CI - make failing the tool fail CI""
+"
+388,"""Perfect. Thank you so much; ```
+"
+389,"from <http://mininet.net|mininet.net> import Mininet
+"
+390,"from mininet.node import CPULimitedHost
+"
+391,"```
+"
+392,"""no, i mean, what is the markdown syntax for it""
+"
+393,"
+"
+394,"""Quick question.. I have an html table with some items inside a cell being separate by ‘&lt;br/ &gt;’ tags.. if I use pandas read_html to convert it to a dataframe.. is there a way to replace the br’s with something else? As is I get all the data, but some cells are allstucktogether.; hopefully cross posting is not frowned on.. as I posted this to <#C0JB9ATQV|data_science> as well! LMK!""
+"
+395,"Thanks <@Hiroko> 
+"
+396,"<@Hiroko> i already have it
+"
+397,"<@Gianna> ^
+"
+398,"""yeah I'm not familiar with MacOS but the idea is the same; you have multiple python's lying around. And the one you get when you type `python` is not what you expect; so you `pip install ...` it is installing to one of the pythons, but not the one you want; does mac have `source .bashrc` or something equivalent?""
+"
+399,"yes but I have never developed on mac before
+"
+400,"As the author of the git file wrote, there is no insight on why is not working, and Im trying to find a way to make it work, as I already have some huge dependencies on flask
+"
+401,"""sure, is throwing the
+"
+402,"import aiohttp
+"
+403,"        fetch(""""<https://bing.com/>""""),
+"
+404,"        fetch(""""<https://duckduckgo.com>""""),
+"
+405,"        fetch(""""<http://www.dogpile.com>""""),
+"
+406,"    ))
+"
+407,"Probably because you have no active conda environments. `python -V` just shows the system python info.
+"
+408,"""what is my  environment name ?; ```conda info --envs
+"
+409,"<http://prntscr.com/mmiwyg>
+"
+410,"Have you tried running `conda init &lt;name of shell&gt;`; Insert what the name of the environment you want in place of `&lt;name of shell&gt;`; So in the above try running `conda init anaconda3`; Then `conda activate anaconda3`
+"
+411,"""The function you showed me before does what you need to do. The only difference is the command it builds. Try to follow how that function builds the command. Like I said, aside from the `subprocess` and `QtCore` stuff, it's working with standard python objects, so it should be easy to follow what it does. You can either throw in a bunch of print statements between each alone, or try out pdb so you can hang out in there and keep trying stuff without having to keep calling the script over and over""
+"
+412,"""<@Judith>  what does high level mean to you? For a business perspective, or somebody who knows stats but not ML""
+"
+413,"""Haha, I was just typing the same thing - I took that course. It's quite heavy on the maths sometimes if that's a problem, but you will understand the concepts afterwards.""
+"
+414,"and I always recommend automate the boring stuff
+"
+415,"""never used it, but saw it going around Github recently and it seemed super interesting; so, if I read the README file correctly, you'd have something like
+"
+416,"""its a part of preprocessing (trying to learn stuff )
+"
+417,"""I dont believe you can do this type of querying of JSON fields in the ORM; looks like you can access keys, and the indices of arrays (so like `json__my_list__0__number=123`) but i dont see where you can search through all the items in a list with the ORM""
+"
+418,"""Hello all I do not know how I can solve this problem, I have a folder full of different file types: .pdf, .png, .flv and I have folders for each file type. I want to be able to sort the files. Like pdfs to the PDF folder the flvs to the FLV folder; Any Ideas?""
+"
+419,"http = urllib3.PoolManager()
+"
+420,"None
+"
+421,"from db.database_setup import Logs
+"
+422,"""Hi All, I need one help, I am trying to create github_issue using pygithub api calls, when I assign the milestone, I am getting the below error
+"
+423,"The file can be empty it just has to exist.
+"
+424,"""now  getting error import app in logger.py; None; logger.py:
+"
+425,"
+"
+426,"
+"
+427,"
+"
+428,"        self.url_beta = '<https://beta.matchbook.com>'
+"
+429,"        self.urn_main = '/bpapi/rest/'
+"
+430,"that is very helpful thank you Joe
+"
+431,"""I'm having a bit of trouble unpacking a tuple from a mocked return value. A simplified version of what I'm trying to do:
+"
+432,"""yep, this is more a question of best practice""
+"
+433,"""I figured it out - the issue stuck deep in a wrong formatted string in `process` of `subprocess.run(process)` :rubberduck:
+"
+434,"seems to be about it
+"
+435,"<https://bazaar.launchpad.net/%7Eleonardr/beautifulsoup/bs4/view/head:/CHANGELOG> <@Carissa>; not sure if it's much different than the ubuntu one
+"
+436,"also you are missing the trailing `__` on name in those scripts
+"
+437,"oh… bazaar?
+"
+438,"  Running setup.py bdist_wheel for myrepo ... done
+"
+439,"""pip list looks at your Python path. So if that build directory isn't there, it's not going to list the module.""
+"
+440,"""Ah I’ll read through that, thanks; Oh sweet, there’s even an answer right there, I just have to put “sorted( )” around it""
+"
+441,"""Chrome is heavyweight, it will launch more than 1 process""
+"
+442,"after quit; processes dont stay man; they are while the script is running; i dont have leftovers; i just use way too many resources; like for 10 browsers it take over 16gb ram; which is insane
+"
+443,"""<https://news.ycombinator.com/item?id=14103503>; &gt;&gt;&gt;for months (rendering a large variety of sites without restarts for weeks at a time)
+"
+444,"Run it with:
+"
+445,"• <https://stackoverflow.com/help/how-to-ask>
+"
+446,"""
+"
+447,"""On line 15 you have a `try/except`; try removing this block entirely, and see what the error is; holy shit; <@Jolanda>: <https://flask-restful.readthedocs.io/en/latest/quickstart.html>. Please don't use that tutorial""
+"
+448,"""Thanks <@Jonas>, I am going to start again with quickstart, my fault not follow the oficial documentation""
+"
+449,"especially when you’re starting out and you don’t have the knowledge or expertise to understand what’s being described
+"
+450,"""I'd also recommend using flask_restful, I use it at work and it makes developing endpoints simple and clean""
+"
+451,"• <https://stackoverflow.com/help/how-to-ask>
+"
+452,"""
+"
+453,"Thanks for the help mate!
+"
+454,"""I have a celery `shared_task` and I want to pass in api after it's been initialised in another function. How do I do this with the following code?
+"
+455,"Thanks!; I’ll have a read
+"
+456,"""ahhhh, that makes perfect sense <@Carmen>! thank you! :pray:""
+"
+457,"<@Deon> the list of HTML URI's have the ':' colons at different positions in the list so it's hard to use any specific markers to find them
+"
+458,"""perhaps ``` f = interp1d(xold,yold,fill_value=""""extrapolate"""")```""
+"
+459,"""<@Conchita> Maybe try `print(df.to_string())`? That function has a lot of extra options for what columns to output, etc.""
+"
+460,"""<@Sasha> that did the trick! Thank you; Thanks for the link <@Marth>, I'll keep it open for my next pandas/csv issue in 3..2.. :slightly_smiling_face:""
+"
+461,"""not sure if this accomplishes what you want or not:  <https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt>; ah, no ideas as far as a username specific solution though, sounds like other work arounds had been suggested.""
+"
+462,"""I'm trying to see if a string exists in a dataframe and return its row index. This code does so successfully, but in this format where the row index is `2`:
+"
+463,"""Thank you, I'll have a look and give another try :smiley:""
+"
+464,"Huge thanks.. :star-struck:
+"
+465,"""definitly `cron` if the smallest increment is 1 minute or more, `sched` or `apscheduler` modules are good if you need smaller increments. I was just researching that the other day; `sched` is quick and dirty, `apscheduler` is powerful but a little more complex to implement""
+"
+466,"""Im using SQLalchemy, i was wondering if it is possible to constrain a pair of columns to be unique.
+"
+467,"    UniqueConstraint('col2', 'col3', name='uix_1')```""
+"
+468,"""do you have the appropriate version?; been a while since I’ve done anything python and windows, and got burned enough to not really want to try again""
+"
+469,"check out <https://pythondev.slack.com/archives/C22DMH61M/p1550766888043800>
+"
+470,"sad days ahead.  still dont have access to github actions…not a huge fan of gitlab nor circle.
+"
+471,"""I’m playing around with this: <https://docs.python.org/3/library/tempfile.html#tempfile-examples> …when i write to a temp file, before i `f.close()`, i try to cat the file and its giving me no contents; is that normal?; im running through a json doc.  for each item, i need to write the contents of one of the keys to a file so that i can reference that file to be uploaded to a remote location…the problem is that when it goes to upload, it says invalid contents, inspecting the file, there are no contents.; oh; so.  apparently, this is a thing.  you need to pass `delete=False`, then `f.close()`, annnnd then you can reference the file""
+"
+472,"""```&gt;&gt;&gt; val = (464735).to_bytes(4, byteorder='big')
+"
+473,"""Really? That is odd...; Maybe try `print(<http://df.at[2|df.at[2>, 'powercut'])` to double-check?""
+"
+474,"""Tried, and this is strange. Mind you that the field of [2, 'powercut'] is equal to `False`; I don't get why this is happening. Do you <@Sasha>?""
+"
+475,"""Wow, <@Leana>!""
+"
+476,"
+"
+477,"Anyone doing the practice round of Google kickstart 2019 ? 
+"
+478,"""The `RandomState` docs have this guarantee: """"_Compatibility Guarantee_ A fixed seed and a fixed series of calls to ‘RandomState’ methods using the same parameters will always produce the same results up to roundoff error except when the values were incorrect. Incorrect values will be fixed and the NumPy version in which the fix was made will be noted in the relevant docstring. Extension of existing parameter ranges and the addition of new parameters is allowed as long the previous behavior remains unchanged.""""; That said, if you're using this for encryption, I'd recommend an actual cryptography algorithm, since the pseudo-random sequence might not be very secure against decoding attempts.; The seed is only 32-bit, too, so that's very vulnerable to brute force.""
+"
+479,"    time.sleep(1)
+"
+480,"""You just said it doesn't give an error, but it's throwing a TypeError on line 16...""
+"
+481,"    time.sleep(5)
+"
+482,"• <https://stackoverflow.com/help/how-to-ask>
+"
+483,"""
+"
+484,"• <https://stackoverflow.com/help/how-to-ask>
+"
+485,"""
+"
+486,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+487,"user experience really differs between mobile and other devices; are you able to use the website?
+"
+488,"""&gt; I think the problem is that pyautogui doesn't come to terms with wayland yet, the x11 substitute.; If you're trying to make a poker bot, there are way better ways than reading the screen; that's..... going to be hard.""
+"
+489,"""<@Clemmie> thanks for quick reply. will look into it. is this good? --&gt; return sorted(dict_of_word_count.iteritems(), key=lambda k_v: v_k[1], reverse=True)[0:20]""
+"
+490,"""Hello all, I want to alternate capital and lowercase letters into a new array. The way I could think of to capitalize letters was breaking the original word into two arrays. I want to join them back but alternate the letters when I do so.
+"
+491,"""Yeah, it is one of those fun edge cases. Shows up with some regularity in new years type checks""
+"
+492,"Nice - I am so glad they fixed that. I’m going to have to retire that gotcha
+"
+493,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+494,"Very cool. Thank You
+"
+495,"is there anything else you can think of to try?
+"
+496,"It's worked; you are amazing; thanks so much I was shitting myself lol
+"
+497,"What's the recommended library for parsing xml these days? bs4?
+"
+498,"""<@Demetrice> Enclose my line 4, the one employing the .append() function, in a loop to keep adding new values to your list.; Haven't noodled around on <http://exercism.io|exercism.io>; In general though, I'd offer that in your initial code snippet above, an initial value nor subsequent values were not added to the list.""
+"
+499,"""Given the dataset `[{'id': 1, 'name': 'John'}, {'id': 2, 'name': 'Mary'}]` what's the best approach to get the name of the id whose value is `n`? I can iterate through the list or do `filter`, but I'm not sure if there's a faster way of doing this when handling json.""
+"
+500,"Has anyone solve this <https://ayende.com/blog/104449/hiring-questions-the-phone-book>; ?
+"
+501,"""<@Lourie> I just have it a quick read, and it seems pretty straightforward; It's meant to be somewhat open-ended with plenty of things to cover to see how you, as a developer, go about problem solving""
+"
+502,"<https://datatables.net/examples/data_sources/server_side>
+"
+503,"I think that's only the data not the actual columns; I have that currently set but I want to create a 'report builder' where the users can select different data points so the columns would need to be dynamic rather than predefined; I'm using flask so I could do some kind of `if` statement with jinja but it feels a bit messy
+"
+504,"thanks; does the json data need to be in a different format?
+"
+505,"• <https://stackoverflow.com/help/how-to-ask>
+"
+506,"""
+"
+507,"There are probably lots of people that don't have a unique name. I don't think that will wor'mk
+"
+508,"""<@Carmen> Thank you. I will explore mailbox.
+"
+509,"""Is there a way to install pip packages for all users on RHEL as root?; Getting this error: [python2.7]$ which pip
+"
+510,"
+"
+511,"did those too
+"
+512,"IT'S ALIVE; I think it was just the last bit I needed; I may have gone over old keys which I forgot I did for years back IDK
+"
+513,"• <https://stackoverflow.com/help/how-to-ask>
+"
+514,"""
+"
+515,"ca_cert = './certs/ca.crt'
+"
+516,"""<@Sasha> Thanks. the format of certificate i got is...
+"
+517,"```; This is different from the result with `ssl.get_server_certificate`..; when using `ssl.get_server_certificate()` I have got this format
+"
+518,"""Need help with Elasticsearch.
+"
+519,"```
+"
+520,"""need help for this error while using channels
+"
+521,"• <https://stackoverflow.com/help/how-to-ask>
+"
+522,"""
+"
+523,"
+"
+524,"""and FYI, when using third party libs, check the documentation on their requirements; you’ll see what versions are supported""
+"
+525,"I have to perform the encryption and re-encryption locally as I do not want the private key t o leave the system.
+"
+526,"""hm; """"The solution, sadly, is just to use a function in the global namespace. You can still make it an instance attribute though, take a look:""""; <https://stackoverflow.com/questions/32321324/pool-within-a-class-in-python>; seems like that might be the approach I will need to take; a bit messier but if it works then I'll be happy""
+"
+527,"""I think you need to make your iterable (job_zip) pickle-able, which it isn't at the minute since it's a bunch of itertools callables?""
+"
+528,"I don't think having the called method in a class in inherently _wrong_, but the iterable (and possibly all locals within the pool call?) must be pickleable.; Weird, my indentation has gone mental in that gist; In the `Incorrect` class, the iterable `job` is a bunch of functions, which can't be serialized. In the `Correct` class, it's just a bunch of strings that are processed by process_chunk. Make sense?; Pass data into the pool, not functions or methods, and you should be fine. :slightly_smiling_face:""
+"
+529,"except requests.exceptions.RequestException as e:
+"
+530,"""<@Demetrice> you could remove non-letter characters, I guess?""
+"
+531,"Honestly i didn't even see that. It went up top for some reason. I'm looking at it now. It looks so much simpler than mine; You did it in one line of code. :anguished::upside_down_face: what does the [^\w] mean?  How does it know how to look for words like that?
+"
+532,"I see. So that would really solve this problem instantly. I've been trying to fix my version too for practice but it's just not picking doing what i want. My logic must be off
+"
+533,"""I think `replace()` returns a modified copy of the string, rather than changing the original.""
+"
+534,"""Thanks <@Sasha> I will analyze, the problem I get the tif file in bytes through the database""
+"
+535,"
+"
+536,"<@Hiroko> I don't think so; Had this been the problem. It would've been mentioned in the docs
+"
+537,"        self.parent = parent
+"
+538,"""Second, I have more of those chars""
+"
+539,"Author: Riverbank Computing Limited
+"
+540,"• <https://stackoverflow.com/help/how-to-ask>
+"
+541,"""
+"
+542,"""Yeah waqas, I've tried using that one and I keep getting a RTM socked closed error""
+"
+543,"Author: liris
+"
+544,"I'm thinking about running my dict with request_data through this code <https://gist.github.com/chris-hailstorm/4989643>
+"
+545,"are you using pythonn 2 or 3?
+"
+546,"    be encoded in Unicode”.  For apps that don’t use unicode, this function
+"
+547,"""But now I'm kind of have another issue, I already have few try except cases, and if MaxmindError fails as wel, will it go to second except clause, and execute DataError?; Will definetely looks at your examples""
+"
+548,"edit: not able to reproduce, maybe I'm doing something wrong ?; I'm on `macOS 10.14.3 (18D109)`""
+"
+549,"deleting this due to questions about validity.
+"
+550,"• <https://stackoverflow.com/help/how-to-ask>
+"
+551,"""
+"
+552,"None; that works but this does not:; None; does the psql command need to be a single string instead of a list?
+"
+553,"""hey guys, I am currently moving data from flat files on an EC2 instance to onprem MSSQl — I am using df.to_sql, and was wondering if anyone has used bcp utility on linux to do so?""
+"
+554,"""thanks for the help. I had to reinstall the module because of some cmake issues, but my local library is correctly working now :slightly_smiling_face:
+"
+555,"""oh crap, i need to get to bed, its late xD; i am going to read that article thank you so much for your help""
+"
+556,"""```
+"
+557,"Is there a reason it does that? And how can I remove the b from the results?""
+"
+558,"```
+"
+559,"&gt;&gt;&gt; a[0]
+"
+560,"""hi, aside from packaged libs and projects means for reuse, is *setup.py* recommended for a web service?""
+"
+561,"```
+"
+562,"""thanks for pointing me to that library <@Clemmie>,  I can definitely use it for one of my projects!""
+"
+563,"""Hi, anyone used RotatingFileHandler for logging before? I wonder whether it deletes the old logs after specified number of backups file will be filled with logs. I mean, assume you have 5 backups with 20 MB each, and after you reached total of 100 MB of log, old logs will be deleted to reserve a space for upcoming logs.""
+"
+564,"""thank you <@Clemmie>, I’ll have a look at that link
+"
+565,"""Hi guys,
+"
+566,"""Yeah, I'd generally prefer the first option, both for robustness and readability.""
+"
+567,"`pymssql.OperationalError: (20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed`. Any ideas?""
+"
+568,"""Hi everyone,
+"
+569,"+--------*\\; \; *\; *\; Sry
+"
+570,"```
+"
+571,"""You appear to be setting a 100ms timeout, which is pretty short, and it's triggering.""
+"
+572,"&gt;&gt;&gt; print(response)
+"
+573,"""Brett Cannon does some trickery with the dependencies in setup.py here <https://snarky.ca/clarifying-pep-518/> , and I thought I could somehow extend this idea. Have a list of the """"internal"""" packages that I might need to hack on and install them in develop mode.""
+"
+574,"""If you don't mind me asking, what's the use case? Usually you're trying to go the other way around, where your dev environment has more packages than you want distributed.""
+"
+575,"""doing `-e` in requirements.txt files gets close, but I think it would be ideal to specify things in `setup.py` and have a flag for dev power install for user 2 vs package install for user 1""
+"
+576,"""sounds like you want a capture group, put the table name part in parens; or put the space in the lookbehind and wrap the keyword options in a non-capturing group `(?: ... )`.""
+"
+577,"""Thanks, <@Hiroko>. I hadn't run across Doctest before... that's a cute hack.""
+"
+578,"
+"
+579,"```
+"
+580,"
+"
+581,"<@Conchita> when in doubt choose postgresql. But if you are already hosting on a big cloud like GCP or AWS it's probably easier to use their databases offering; and I would also advice against storing pdf / word documents in the db. What people usually do is store metadata about the file in the DB and the file itself on the filesystem
+"
+582,"• <https://stackoverflow.com/help/how-to-ask>
+"
+583,"""
+"
+584,"""Hi...is there a way to iterate over all combinations of elements from multiple lists, without using multiple for loops?""
+"
+585,"""Thanks. I don't quite get how `combinations` works: When I try the following: ```for e, lr, b in combinations_with_replacement(zip(epochs, learning_rates, batch_sizes), 3):
+"
+586,"""```
+"
+587,"mail.Subject = """"Sub""""
+"
+588,"I like click but it's also an extra thing to install. `argparse` is just fine unless you're making something complex.
+"
+589,"i'd say that approach is  rather futile effort .. Applications in mac (just like any os really) can be anywhere..; but that wasnt the answer to the question so 'scuse me :smiley:
+"
+590,"""<@Elna> Looks like you've got a mix of Python 3.6 and 2.7 libraries going on, though I couldn't tell you how to fix it.""
+"
+591,"• <https://stackoverflow.com/help/how-to-ask>
+"
+592,"""
+"
+593,"""I am looking to loop through thousands of json responses via a web url and parse out some of that data and store it in a flat file (csv, txt..etc is ok). Where should I begin? Didn't know which channel to put this in.""
+"
+594,"<@Eric>  can I use it for web scraping 
+"
+595,"""hmmm; looks like they don't recognize what the plate actually says, just that it's a license plate; and it gets a clean image of it""
+"
+596,"""no worries; I found it; also side note, shinobi runs best on ubuntu/debian, specifically LTS versions""
+"
+597,"""have almost no experience but basics in javascript (syntax, etc) what do you think the learning curve for Shinobi will be? I have about a month to try and get something going depending on our investors decision for the utilization of the cameras.; *having""
+"
+598,"already had the page up :wink:
+"
+599,"""Hi all, I’ve been asked to help write java deployment code. As a guy who leverages pandas a lot, are there any tips to get started? idk if there is even a dataframe obj in java""
+"
+600,"but it is still not working; had to use `subprocess.Popen` instead""
+"
+601,"""Anybody, who can help me parsing (web scraping) all evetns from this page: <https://alando-palais.de/events>""
+"
+602,"""If you have a question, please just ask it. Please do not ask for topic experts;  do not DM or ping random users. We cannot begin to answer a question until we actually get a question. 
+"
+603,"""My question is, how to get all the events from that page. They are hidden behind (js / php) scripts. That is why, I cannot parse them out of the normal html response""
+"
+604,"How can I render serialized data (JSON) from model to regular HTML template?
+"
+605,"It is one part of all XML document.
+"
+606,"""And a suggestion: switch from legacy Python (2.7) to Python 3.
+"
+607,"
+"
+608,"
+"
+609,"thank you in advance""
+"
+610,"
+"
+611,"Aha... looks like it can be done via Settings &gt; Tools &gt; External Tools. Thanks!
+"
+612,"&lt;li&gt;&lt;a href=""""<http://www.Vagan.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1865 Vågan&lt;/a&gt;&lt;/li&gt;
+"
+613,"&lt;li&gt;&lt;a href=""""<http://www.oksnes.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1868 Øksnes&lt;/a&gt;&lt;/li&gt;```""
+"
+614,"""I'm not 100% sure what edit you want to do, but can you use the find-and-replace functionality?""
+"
+615,"&lt;li&gt;&lt;a href=""""<http://www.Vagan.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1865 Vågan&lt;/a&gt;&lt;/li&gt;
+"
+616,"&lt;li&gt;&lt;a href=""""<http://www.oksnes.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1868 Øksnes&lt;/a&gt;&lt;/li&gt;```
+"
+617,"to
+"
+618,"""""&lt;li&gt;&lt;a href=""""<http://www.Vagan.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1865 Vågan&lt;/a&gt;&lt;/li&gt;""""
+"
+619,"""""&lt;li&gt;&lt;a href=""""<http://www.oksnes.kommune.no>"""" class=""""external-link"""" target=""""_blank""""&gt;1868 Øksnes&lt;/a&gt;&lt;/li&gt;""""```; On 100s of lines""
+"
+620,"""Yeah, I'd think of doing something like replacing `&lt;li&gt;` with `""""&lt;li&gt;` and `&lt;/li&gt;` with `&lt;/li&gt;""""`.; Note that whatever is parsing this file might end up confused by the nested quotes, though.""
+"
+621,"
+"
+622,"        ``file-tuple`` can be a 2-tuple ``('filename', fileobj)``, 3-tuple ``('filename', fileobj, 'content_type')``
+"
+623,"""I'm trying to get the top headlines for a news source a user selects. When I type in the string, execution ends silently without any output beyond the 'Enter your choice' line.""
+"
+624,"""Here `user_choice` is just a string, so it doesn't have a `'name'` field in the `choice['name']` expression.""
+"
+625,"<@Sasha> you were right. I was using the input the wrong way. Thanks <@Hiroko> :taco: . Will start from here later. :slightly_smiling_face:
+"
+626,"<@Hiroko> thanks as always! :taco:
+"
+627,"""It depends what you need to distinguish against. If the email is always the second element in your list, `data[1]` solves it. If none of the other values will have an `@` sign, then that's a simple loop to check. More complicated would be a regex filter. And if you need to recognize a standards-compliant email address versus something that is close but not quite right, it's probably time to pull out a library, as that's quite messy in general.; Right now the `if """"@"""" in data` is looking for an element of the list which is exactly `""""@""""`, rather than a string containing an `@`.""
+"
+628,"Whatever works. I am old schooled. USB with all my programs and sometimes a portable version of either a compiler or/and the interpreter... lolol. Find cold storages more reliable and cheaper than cloud.
+"
+629,"Looks to me like pymssql isn't very smart… <https://github.com/pymssql/pymssql/issues/332>
+"
+630,"""&gt;  I don't want to create a string literal in code since that's susceptible to sql injections. Any ideas?
+"
+631,"""I don't think that'll make a difference, since SQLAlchemy uses pymssql to connect to SQL Server…""
+"
+632,"""Thanks, I'll go tinker with that in a bit""
+"
+633,"
+"
+634,"
+"
+635,"Thanks!
+"
+636,"    """"A horribly simple HashTable implementation.""""
+"
+637,"Is it really magic?; ;)
+"
+638,"""<https://medium.freecodecamp.org/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f> found this one from a quick google search; examples are Java but the concepts are there and examples are really, really simple so shouldn't be a problem""
+"
+639,"Thanks
+"
+640,"""```In [1]: class ParentException(Exception): pass                                                                          
+"
+641,"""<@Hiroko> yes, I have enabled CORS on the bucket, although it is slightly different from that one""
+"
+642,"Yes. Like to fill out forms because I've run out of possible combinations of `Test User` that I can possibly use :joy:
+"
+643,"""cool will do, now how to figure how to parse if a table occurs before the `--- end`""
+"
+644,"I love hypothesis. Anybody know if you could make a strategy for a marshmallow schema?
+"
+645,"""Ohhhh ok, I thought when you said that you love hypothesis that it was referring to another post above that I missed and not a package :sweat_smile:""
+"
+646,"yes!
+"
+647,"• <https://stackoverflow.com/help/how-to-ask>
+"
+648,"""
+"
+649,"""I'm having a issue where my urls.py is not detecting the URL it's being redirected to... I'm probably overthinking this, but would somebody be able to have a look?""
+"
+650,"for this to work AWS instance should allow ssh connection through port 26 or any other port right? I dont think they do. For ssh 22 is a static Port.
+"
+651,"""<@Melynda>, I’m aware of the wont-it-be-much-easier-scenarios but unfortunately I can’t do anything about that. I’m sure they must have their reasons. Right now I was hoping if we could find a solution despite the constraints.""
+"
+652,"ECDSA key fingerprint is SHA256:Z5T5YwE0UZSYIirqn6OFvD69TjJcrilQ8oXxZry6Ifs.
+"
+653,"<mailto:ubuntu@ec2-35-154-179-149.ap-south-1.compute.amazonaws.com|ubuntu@ec2-35-154-179-149.ap-south-1.compute.amazonaws.com>: Permission denied (publickey).```; Perhaps your SSH key isn't the right format? It's unusual for it to be in a `.pem` file.; Do the contents of that file look like `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC94WHvGPR/RTAgLHZbcMdHXSGVs… name@host` :question:""
+"
+654,"• <https://stackoverflow.com/help/how-to-ask>
+"
+655,"""
+"
+656,"""yep; there's another SO thread that says it's implementation dependent; in a 2d array list of lists in python, we don't have to re-allocate the entire thing""
+"
+657,"
+"
+658,"""Thanks <@Virgie>, I'll look into it""
+"
+659,"""Can anyone let me know how to move the value of `i` to next row continously
+"
+660,"""<@Hiroko> Great Jason I now understand the concept
+"
+661,"""hi willa75
+"
+662,"If I have stored this in a dictionary. How do I extract all values from the key `phoneNumber`?
+"
+663,"okay i will recheck it thank you
+"
+664,"""what's going on. Would greatly appreciate some help with google-cloud-storage; getting some client module error
+"
+665,"""When I try to run this code to apply a 2D filter on the image (h) which was hexagonally sampled, i get this error                                                                                                     """"File """"preprocessing.py"""", line 29, in &lt;module&gt;
+"
+666,"""Gotcha. You may need to implement your own color-space conversion on a pixel-by-pixel basis instead of relying on OpenCV for that. Alternately, can you perform the conversion on the original square-pixel image first before the hex step?; In general, I would not expect things to """"just work"""" between OpenCV and the hex-image libraries.""
+"
+667,"""What is the best way to configure Debian 9.5 to use URF8 or allow by default?; I installed the `locales` debian package and run:
+"
+668,"""I probably need to add that to my repertoire for """"impossible"""" behavior... """"Are you using an IDE, and have you restarted it?""""""
+"
+669,"It's something i find myself looking up often. I think i'll save this link. Thank You
+"
+670,"so what changes i have to make
+"
+671,"""m going through it; lol beginner level mistake,that column assigning is case sensitive when i make that capital E,its runs successfully,btw <@Hiroko> thanx for ur concern""
+"
+672,"""yes, now it works. but now it turned into `[Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'test'. (18456) `, while the login works on my computer if i try manually, using sql server authentication...""
+"
+673,"i'm very sure the creds are right i checked them a thousand times and they work in another client
+"
+674,"I would speak to whoeever has rights then; you're not making any obvious mistakes.; I would double check the defaults when connecting with sql studio; is it perhaps enforcing an encrypted connection? Or some other policy that sql studio is abiding to by default but which your code is not?; <http://pymssql.org/en/stable/faq.html> can also help you here; Setting `TDSDUMP` will give you some nice output to help you debug this.
+"
+675,"""alright, thanks for thinking along. i've checked all those defaults and everything corresponds. i'm trying the tdsdump""
+"
+676,"i don't understand; is it not working at all? or is it just slow?
+"
+677,"""Thanks, I will check that""
+"
+678,"""<@Jamey> Not entirely sure what the .env file means, is it used by some framework? But normally enviroment variables are just strings, so you need to sort it out when using it.; If you use `os.path.join` (or similar function from `pathlb`) to create a path, the separators are sorted out by that function.""
+"
+679,"
+"
+680,"looks good. is it working ?
+"
+681,"""I'm currently hosting my static website on Netlify and need to implement a digital signature feature. Would it be achievable to embed that on a static website or does it move into the dynamic territory? I'm pretty fresh into the world of web dev :slightly_smiling_face:
+"
+682,"```
+"
+683,"When I try to close the entire application using 'X' Button. It pops up an message dialog and even when i press No it closes the application
+"
+684,"• <https://stackoverflow.com/help/how-to-ask>
+"
+685,"""
+"
+686,"I now but also and I cant get more info...during try except thats the only message I get
+"
+687,"<@Hiroko> thx! I will take a look into that! :slightly_smiling_face:
+"
+688,"look into topic modelling
+"
+689,"gotcha - what error are you getting though?
+"
+690,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+691,"<@Bennett> would help to know what's missing from your solution 
+"
+692,"""Knowing how to ask a good question is a highly invaluable skill that will benefit you greatly in any career. Two good resources for suggestions and strategies to help you structure and phrase your question to make it easier for those here to understand your problem and help you work to a solution are:
+"
+693,"• <https://stackoverflow.com/help/how-to-ask>
+"
+694,"""
+"
+695,"<@Corina> thank you!
+"
+696,"It looks like it is called - in `cpu_time = timeit.timeit('train_on_cpu'()...` as well as later `source: train_on_cpu()`
+"
+697,"<@Debbie> ^
+"
+698,"""The loop thing is better in my opinion, since it allows for interrupting the loop with, for example KeyboardInterrupt; Or if you are running multi-threaded things and sets some flags for exiting it can do so in between loops instead of hanging there for 7 minutes.""
+"
+699,"""I was looking for the Djangolearning channel but all I could find was django, which I will ask in also but figured I'd post in here just in case""
+"
+700,"Guys what is the name of algorithm that calculate some kind of score based on probability of B being similar to A?; I want these score tho predict if B 0.9000 similar to A (Example)
+"
+701,"""is there a style guide i can use to figure out when to use *`""""`* vs *`'`*?""
+"
+702,"""hey all,
+"
+703,"<@Sparkle> still return empty array here the website if that can help(<https://www.flightclub.com/catalogsearch/result/?q=378037-117>)
+"
+704,"""I stumbled upon that link trying to figure this out,  but `item_list = [e for e in item_list if e not in ('item', 5)]` only checks if either `item` or `5` exist, it doesn't check if the combination of those two items exist in the list""
+"
+705,"nice resource! thanks <@Rebeca>
+"
+706,"       'proocessor_type': 'generic',
+"
+707,"req=urllib2.Request(url, headers=hdr, data=data1)
+"
+708,"       'proocessor_type': 'generic',   &lt;-----------
+"
+709,"No prob <@Mana>; I will give you a taco :taco:
+"
+710,"It will be one problem a week; Its really cool""
+"
+711,"""are you sure the item is not populated by API request?; that said, don’t think we can help you, since you’re in direct violation of that website’s tems of service; <https://www.flightclub.com/terms-conditions>; &gt;&gt;&gt;• Use any robot, spider, script, or any manual or automated application or means to extract, download, retrieve, index, mine, scrape, reproduce, or circumvent the presentation, operation, or intended use of any feature, function, or part of the Site;
+"
+712,"• Modify, adapt, translate, reverse engineer, decompile, or disassemble any portion of the Site;
+"
+713,"so is daylights saving time &gt;.&gt;
+"
+714,"how is continue different than pass?; lol sorry didnt read the other comments; thanks <@Marla>
+"
+715,"""Please use the snippet feature, or backticks, when sharing code. You can do so by clicking on the :heavy_plus_sign: on the left of the input box for a snippet.
+"
+716,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+717,"None
+"
+718,"""Yeah, he's just explaining the links though; right?; how do I get all the way down to the two splits from TeamStats?  there are so many levels and it looks like splits and teamStats are lists and the rest dicts""
+"
+719,"all teams including their id, venue details, division, conference and franchise information.
+"
+720,"""Hi Guys! In django, is there a global place for handling exception (like wsgi.py). I’m trying to do somehting like this:
+"
+721,"<@Hiroko> :taco: :taco: :taco: that works - extra tacos for responding so late at night!
+"
+722,"clip_regex.match('<https://clips.twitch.tv/IcyZealousLapwingBloodTrail> sdf')
+"
+723,"```; Should give a match for the link, and it does even here <http://regexr.com/4avmi|regexr.com/4avmi>; Also with `re.compile(r'/(?:https:\/\/)?clips\.twitch\.tv\/(\S+)/i')` It doesn't work""
+"
+724,"""I think you might be getting Python regex syntax confused with Perl, with the `/ ... /i` enclosing slashes?""
+"
+725,"r = clip_regex.search('<https://clips.twitch.tv/IcyZealousLapwingBlosdzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz> okay')
+"
+726,"&lt;_sre.SRE_Match object; span=(0, 81), match='<https://clips.twitch.tv/IcyZealousLapwingBlosdzzz&gt;>
+"
+727,"```; Unless that's not the whole result; But in the debugger I can't see more than that""
+"
+728,"&gt;&gt;&gt; r = clip_regex.search('<https://clips.twitch.tv/IcyZealousLapwingBlosdzokaythenzzzzsdfsdfsdfsdfsdfzzzzzzz> okay')
+"
+729,"&gt;&gt;&gt; r.group(0)
+"
+730,"```; Obviously my regex has an issue; Somewhere""
+"
+731,"&gt;&gt;&gt; r
+"
+732,"Hey can someone help me how to convert a normal text data into CSV ?
+"
+733,"• <https://stackoverflow.com/help/how-to-ask>
+"
+734,"""
+"
+735,"""Knowing how to ask a good question is a highly invaluable skill that will benefit you greatly in any career. Two good resources for suggestions and strategies to help you structure and phrase your question to make it easier for those here to understand your problem and help you work to a solution are:
+"
+736,"• <https://stackoverflow.com/help/how-to-ask>
+"
+737,"""
+"
+738,"But when running without xdist hook get called
+"
+739,"""<@Jonas> still the fixture not getting called
+"
+740,"yup; (Germany)
+"
+741,":thumbsup:
+"
+742,"cert.public_key().encrypt(your_data, padding.OAEP)```""
+"
+743,"for x in sites:
+"
+744,"""type(list_of_dict) = list
+"
+745,"
+"
+746,"headers is the names of the columns of the csv file you want to create.
+"
+747,"<https://stackoverflow.com/questions/47645224/unicodedecodeerror-utf-16-le>
+"
+748,"It's working for almost everything but i think there's an illegal character somewhere. My database in latin1 and if i use that decoding it also fails; probably some corrupted value; is there any way to circumvent this?; ignore illegal characters or something like that
+"
+749,"""Hi every one I am trying to pull data from Google Analytics by using the sample code in their Doc, any one have experience with it, I need a HELP""
+"
+750,"• <https://stackoverflow.com/help/how-to-ask>
+"
+751,"""
+"
+752,"""<@Merlyn> that's a pretty platform-specific question, so you might not be able to get much help here. But I can take a whack at it; normally when you have a system like this, it doesn't actually care about the html report. Instead, it relies on some other output, like the JUnit XML output; that gives it a uniform, standardized format that can be easily ingested and parsed; There could, however, be a pytest plugin in play that knows how to submit the results as they come in into some other system, like a DB that your allure system is pulling from (or it's the system that the results are being pumped into); I would first make sure you have your tests running properly. If they're outputting to an HTML file, they might not be outputting to the digestible system that allure depends on""
+"
+753,"Please follow allure-framework/allure-python""
+"
+754,"```
+"
+755,"does that also apply to iterm2?
+"
+756,"""anyone familiar with <https://quicktype.io/> ?  seems like a cool tool but i'm left trying to figure out how exactly it is useful / how to use it.  i pasted a large json snippet into it and it output a bunch of code.  so is the purpose of that generated code to be able to parse that type of json as input?  i guess i'm looking for a basic example to wrap my head around it, or maybe i'm just not understanding its purpose.""
+"
+757,"""I’m not sure how it would be useful?; requires you to write the json definition first, where you could be spending that time writing the code itself""
+"
+758,"""It'll have continuous open connections in WS for most end users. I'll be serving large files too (basically a file processing and sync app).; Thanks for the video, I'll consider watching..""
+"
+759,"```; Can anybody tell me the python equivalent of this curl?; I've tried this:
+"
+760,"""```
+"
+761,"            url=settings.ES_SERVER_URL + SEARCH_URL,
+"
+762,"""Can't do that; ES doesn't support `application/x-www-form-urlencoded`; ```
+"
+763,"""```
+"
+764,"            url=settings.ES_SERVER_URL + SEARCH_URL,
+"
+765,"ye I stand by PyCharm or VSCode; had a few issues with Atom
+"
+766,"Got a screenshot or a copy/paste instead ?
+"
+767,"good day all; i'm having error inserting into a table with `ForeignKey`
+"
+768,"        amount_made = int(<http://request.POST['amountMade']|request.POST['amountMade']>)
+"
+769,"        shipping_cost = int(<http://request.POST['shippingCost']|request.POST['shippingCost']>)
+"
+770,"        vat = int(<http://request.POST['vat']|request.POST['vat']>)
+"
+771,"
+"
+772,"• <https://stackoverflow.com/help/how-to-ask>
+"
+773,"""
+"
+774,"""i want to compare values in two different tables; can I not do this:
+"
+775,"ah like that. but i do need a datetime object because i'm sending it to an odbc; that's becoming a mess..
+"
+776,"yes both r in the directory
+"
+777,"Thanks again. Going to read through it now.
+"
+778,"I've file blocks in variable chunks. Good idea to store meta data in RDBMS &amp; chunks (millions of them) in key-value database?
+"
+779,"<@Merlyn> <https://pytest.readthedocs.io/en/2.7.3/example/parametrize.html>
+"
+780,"That's a good example
+"
+781,"okay; but this is different
+"
+782,"""what I want to achieve is for admin to create holidays/events products sales for a particular period and then when it's time it automatically goes off; e.g Easter is coming; so we have like discounts for our iPhone s7, Samsung 8s, Gionee s11 lite""
+"
+783,"on it
+"
+784,"Test add runs without any error but testsearch doesn't; It gives error query and tesf not found
+"
+785,"I have fixture in base class; I'm just trying to get it run that's why I'm not using any assert; But it's printing the parameters properly
+"
+786,"""I'm not getting any results for the following:
+"
+787,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+788,"does anyone know of a slack group for wordpress? I am running into a php memory leak of some sort that is constantly going over a set limit that I have for Monit. Any ideas on how to find this needle in the haystack?
+"
+789,"Its crazy we have to fake this
+"
+790,"Is there any reason why it needs it?
+"
+791,"Following from the thought that `break` is often forgotten, `match` assumes each case breaks unless an explicit `continue` is encountered.""
+"
+792,"Ooo
+"
+793,"its still returning that parentheses; oh sweet
+"
+794,"I had a hunch that may be it so I removed the outside df[ ] wrapper but it didnt work; threw the same error... wouldn't df['overunder'] just return that column?; So this is what I have now...
+"
+795,"There should be multiple lines above the ValueError you pasted which I hope points to the exact line where the error occurred
+"
+796,"<#C3GFPUBGF|show_and_tell> might be a more relevant place for this?
+"
+797,"Your code has indentation error; Make sure you have `4 spaces` before the `for` line
+"
+798,"<@Valeri> thanks
+"
+799,"
+"
+800,"--data-urlencode """"ipAddress=125.19.180.206"""" \
+"
+801,"""is it required?; <https://curl.trillworks.com/>; entering the curl command to this results in ```headers = {
+"
+802,"    'Key': '&lt;MY API KEY&gt;',
+"
+803,"""Yes, `--data-urlencode """"ipAddress=125.19.180.206""""` is required otherwise output says
+"
+804,"algorithm to calculate the profile percentage complete considering fk fields""
+"
+805,"""Little help with timezone, please?
+"
+806,"
+"
+807,"""are you referring to django form? If that's the case, i am using django only for api.""
+"
+808,"I will try; Does virtualenvwrapper exist only on windows?
+"
+809,"I see.
+"
+810,"cmake version 3.14.0
+"
+811," ``` I now tried to make  ```sudo ./setup.py build``` it gives ``` running build
+"
+812,"Ok
+"
+813,"""lots of the examples only talk about one of the staticfiles which is `static`; so whatabout `media`?; like how do I take care of images uploaded by the user/admin?; I tried adding it, had errors in `runserver`""
+"
+814,"""sorry I saw that; but my confusion is I also have static, so how do i add media?""
+"
+815,"    """"""""""""
+"
+816,"""```
+"
+817,"
+"
+818,"}
+"
+819,"Thanks. Yeah i'm using this for ETL so i'll go for the more performant one. Using the replacement empty dict and None for the end value should be enough right?
+"
+820,"""Yes that would be converted into a NULL value in the destination database, so that would be prefereable; Thanks again!""
+"
+821,"""Shelling out to curl seems a bit weird – why not just make the HTTP call from Python?; If you must use `subprocess`, you might be better off passing `args` as """"a sequence of program arguments"""" rather than fighting shell parsing semantics, too. `subprocess.call(['curl', url, '-d', json_data])` might work.; &gt; Providing a sequence of arguments is generally preferred, as it allows the module to take care of any required escaping and quoting of arguments (e.g. to permit spaces in file names). If passing a single string, either shell must be True (see below) or else the string must simply name the program to be executed without specifying any arguments.""
+"
+822,"""Hmn. I'll think about it..
+"
+823,"    subprocess.call(f""""git remote add origin git@github.com:{GIT_USER}/{NEW}.git"""", shell=True)
+"
+824,"""as well on settings i let ADMINS = []; and in settings_prod I set ADMINS = [('Support', '<mailto:support@web.com|support@web.com>')]; and in settings_dev I set ADMINS = [('Dev', '<mailto:dev@web.com|dev@web.com>')]""
+"
+825,"I tried This. Which was wrong. I'm sure this is simple but it's 2:30 am. Just give me a sec
+"
+826,"May want to try <#C6VNXKWBG|security> as well
+"
+827,"```class Endpoint(Resource):
+"
+828,"what’s your payload dict?
+"
+829,"ah I see
+"
+830,"I was under the impression the `json` would be appended to the route as the POST data string but I now believe that is not correct; I'll look  into parsing POST data via Flask restful then
+"
+831,"• <https://stackoverflow.com/help/how-to-ask>
+"
+832,"""
+"
+833,"""So i just signed up for gitlab (not sure whats the difference from github), but after creating a new project and ready to type code, i notice a lot of git keywords everywhere. am i able to copy and paste python code?""
+"
+834,"frankly it is expected of devs at this point
+"
+835,"""yeah, you can't just  share the url of a private repo on gitlab - it is truly private.""
+"
+836,"Lol thanks that was what I was looking aswell
+"
+837,"""thanks Joe, got some help in the django channel; FWIW request.path is the path it's headed to ... I needed `request.META['HTTP_REFERER']` and more specifically `request._request.META.get('HTTP_REFERER')` since it's a DRF request and not standard django HTTPRequest""
+"
+838,"Views should be called using `as_view`
+"
+839,"But how can I invoke the post class?; post action*
+"
+840,"`self.__class__` will work with inheritance so that's the best way afaik
+"
+841,"""<@Valeri> But test an http request. I'm trying to pass a request object to a view class; Since the logic which interact with external service is in the view it self; They did not wrote a class that holds all the logic for that; So i'm trinng to do this:
+"
+842,"        clinic = Join()
+"
+843,"```; And get `AttributeError: 'WSGIRequest' object has no attribute 'data'`; So i tried to pass the request as an httprequest object but did not found how to set up a post example; It's like a view interact with twitter and now I need to replace the twitter calss with my class""
+"
+844,"""When user clicks start, app should start recording from camera, and when user click stop app should stop recording from camera.; Now question is - I would like to set a variable(`self.abort_reading`) to true/false based on the basis of type of button click.; How can I share/pass a variable between two processes?""
+"
+845,"
+"
+846,"""Create a python program to find the shortest distance between nodes. This program will accept a list of tuple of x-y coordinates as an input and will output a list of nodes which describes the shortest path between each successive pair, starting with the reference point. You can use Euclidean distance to calculate the distance between two points.
+"
+847,"""This should be straightforward but i'm having a hard time trying to create an sftp client using Paramiko (Python).
+"
+848,"""I haven't used it myself, but BeautifulSoup4 has been recommended in the past for HTML/XML parsing.""
+"
+849,"Hi.  Why is there no '1' for the 'y' variable ?  :; <https://github.com/paulgureghian/Random_Forests/blob/master/Random_Forests.ipynb>; In the printout for the 'shape'
+"
+850,"""My guess is that a one-dimensional tensor is considered to only have a single shape axis. Otherwise you'd have to ask why it shouldn't be `(100, 1, 1, 1, ...)` since it has just a single element along all other dimensions, too.""
+"
+851,"should i prefer ml or data science ?
+"
+852,"hm but what would you put into the queue? it would still be python reading the model and giving output values right?
+"
+853,"""Alright I give up, I can't figure out this dang function; I'm so bad at making these, any tips/good tutorials would be greatly appreciated""
+"
+854,"""hm yeah wanted to prevent installing additional packages but i guess it's the only way to go; annoying that people just don't adhere standards... :stuck_out_tongue:; thanks anyways; got it to work with the regular json package
+"
+855,"""Hello everyone, can someone tell me a good library to mock an external web application for testing? Given that I’m learning, I need read some documentation about it. Thanks in advance!""
+"
+856,"""Is it possible to only apply the patch when you start up with a """"debug mode"""" setting, rather than trying to pass in a runtime sandbox flag for each call?""
+"
+857,"
+"
+858,"```
+"
+859,"
+"
+860,"""Hello, I came across this function called range(), and I realised in the documentation, that there are 2 ways to call the function.
+"
+861,"""<@Sasha> and <@Carmen> -- thanks both, this was a very useful conversation to me :taco:; Do either of you use PyCharm?; Just wondering if there is any way in PyCharm to see at a glance which 'branch' you currently have activated; ah... bottom right; okay, so that went okay... i created a branch, and merged it back into the master -- although I wish it had been a little more guided than throwing conflict text into the source code.; I think the only real 'downside' I could see was that the branch changes have to be committed before you can go back to the master, and vice versa -- although this does make sense""
+"
+862,"""<@Carmen> thanks for your response. I guess I wasn't clear with my question, apologies for that. I have to implement an internal central auth server, which would act as a provider""
+"
+863,"I used the same logic in the first answer when using selenium + phantomjs a while back for full page screenshots
+"
+864,"""Hey folks, I am having trouble learning kwargs. Here’s the script I have saved as “test.py”
+"
+865,"""hey guys, im curious what would be the best module for mapping out zipcode coordinance? something like so <https://www.google.com/search?q=zip+code+population+map&amp;safe=off&amp;client=opera&amp;hs=YHo&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiz3aCFn7nhAhVJSK0KHWW5Bm4Q_AUIDigB&amp;biw=1040&amp;bih=1819#imgrc=LmFAOPe_pK48SM>:""
+"
+866,"<@Nenita> you mean an API for getting those coordinates? or a data structure to hold them?
+"
+867,"pip install pyshp==1.2.10
+"
+868,"""This exercise receives messages from Mars, through a camera with angles, the angles represent the hexadecimal digits, from the angles I take the characters and I translate the message, any advice for the improvement of the code is appreciated; None""
+"
+869,"You mean the 'bash' terminal emulator in Windows 10 ?
+"
+870,"thanks <@Leida> :thumbsup:
+"
+871,"Yeah. We downloaded *MySQL Community Server* from <https://dev.mysql.com/downloads/>; and Installed in our computers and status is active.; Did we do it right?
+"
+872,"<https://medium.com/@kasunsiyambalapitiya/how-to-setup-a-mysql-server-on-local-area-network-lan-c3c5012c7d6b> here it explain how to open it up to lan on both linux and windows; something about creating a cnf file setting the IP
+"
+873,"""Oh great! thanks for the article <@Leida>; And we have now the LAN as barrier. Trying to figure out how to setup. This is new to me. I've found some YouTube videos on software configuration on systems that are to be connected to each other. But before that, I want to get confirmation if we are good with Hardware setup and go to software configuration.; Our ISP's Internet cable is connected to Router.
+"
+874,"""guys, i’m trying to install pipenv on my mac.; but i got this error.; ```macdeiMac:bin mac$ pip3 install pipenv
+"
+875,"""Okay, thanks ; <@Sasha> yes, they appear to be for hashing. I do want something reversible. I’ll have to keep researching to find how I can encrypt / decrypt securely. ""
+"
+876,"""Cool, that looks like a good method.""
+"
+877,"`Python 3.7.1`
+"
+878,"""excuse my stupid question :see_no_evil: would this mean, I should after installing the Virtual Environments,when creating a project reinstall the libraries I did before, like for example netwrokx, pymesh.. The idea was not completely clear for me :disappointed: I'm a beginner -_-""
+"
+879,"""I'm making my own coding using the work of others( PyMesh, NetworkX...)""
+"
+880,"""```list(itertools.product(domains, [1, 2]))```; did the trick, thanks!""
+"
+881,"But... thanks for the help :slightly_smiling_face:
+"
+882,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+883,"""Guys, someone has a idea of how could I create a tree from html where each tag contains your own position ?; So I could navigate using html/body/div[2]/span[3]/p[1]""
+"
+884,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+885,"Ok sorry
+"
+886,"""in my experience it's more of the power settings, is your computer set to sleep / hibernate, put the disks to sleep, than if the computer locks""
+"
+887,"""Error message only produced in association with the generated dictionary....      C:\...\Python\Python36\lib\site-packages\geoplotlib\core.py:753:
+"
+888,"""hi, how to write unit test for below code
+"
+889,"I'd at least take a look at Arrow <https://arrow.readthedocs.io/en/latest/>; parsedatetime <https://pypi.org/project/parsedatetime/>
+"
+890,"thanks. fwiw they are all UTC time so I do know that; the issue is I don't know what format it will come in. I think even w/ arrow I will need to have a bunch of conditional logic to decide which function to use.
+"
+891,"""Yeah, you can formulate it that way too.""
+"
+892,"Thank you!
+"
+893,"You might need to make a custom encoder for that data type. I don’t see how a name wouldn’t be encodable though.""
+"
+894,"""Anyone have any documentation on how they """"host"""" their own webhooks?
+"
+895,"someone give me something to solve please
+"
+896,"""How much test coverage do you have? That’s an important thing to consider ; <@Cinda> the reason we can’t give any specifics is this is analogous to asking how long it will take to update an older building to current building codes.  You haven’t given any specs about architecture, third party libs, any usage of `six`, test coverage percentage, etc; and just with older buildings, you’ll find a few gotchas that you can’t account for because they didn’t come up in original planning for whatever reason""
+"
+897,"""I'm not aware of an Euler slack, though the site does have a forum.""
+"
+898,"""Anyone have any tips or help for setting up a docker container for a Flask production app with redis?; Trying to learn how to use Docker and all; and now i’m trying to post it to Heroku; Well, I posted it to Heroku but it fails because I need to set it as a production environment""
+"
+899,"
+"
+900,"""I’ve never ran into this in python before. I am trying my hand at representing a directed graph. I have two clasess, each of which reference the other. How do you write code like this, so that you don’t get a
+"
+901,"
+"
+902,"<@Clayton> It looks like in `add()` and `product()` you're `return`ing inside the loop instead of after it completes.; So you'll only get 1 value out instead of 3.
+"
+903,"Just seeing if there is a better approach?""
+"
+904,"""You have to send to body if it is a post, right?
+"
+905,"
+"
+906,"""Hi, guys. I'm stuck on my first issue. I use a Raspberry Pi as a little web server to help me get to grips with Python, and to familiarize myself with general linux type syntax at the same time. I come from a Windows background, so i'm no pro at Linux at all.
+"
+907,"Cool!
+"
+908,"<@Dayna> When I try to push from Pycharm nothing happens. If I push from Git bash things work.
+"
+909,"per that link - random question here - but i saw 'if key in mapping'. Does the keyword 'in' work like enumerate or like a dictionary pointer(dict[key])?
+"
+910,"IDE or Editor / Terminal for running Python files ?
+"
+911,"""ayy; notebooks are ok for exploratory analysis. If you plan to re use anything, use a real IDE""
+"
+912,"""After I pip installed the google cloud SDK, I'm getting the following error message every time I run any sort of Python script, regardless if it uses any google module or not: ```Error processing line 3 of /usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cloud_core-0.29.1-py3.6-nspkg.pth:
+"
+913,"""hehe yeah I have thanks. most of them don't reference package the app itself, and those who do reference packaging, do so very high level""
+"
+914,"Or ; <https://gist.github.com/itadder/6feb2647a36fa00749d326bed8e120ba>; Now sure how I can get this flat for powerbi useage; <@Erika> I can’t figure out how I transform this to a useable table in power bi
+"
+915,"""FILE=file.txt; with open(FILE,'r') as f:""
+"
+916,"""Hey Folks, was just running by some material, stumbled across deep and shallow copy. tough i understand what this does, cannot visualize a use case for it. any help is much appreciated.""
+"
+917,"""does anyone know if there is a way to build python from source but also have that build include third-party modules like Numpy? I'm trying to do this.
+"
+918,"""The raw build won't include those modules. You have to add them yourself afterwards.; `Third-party packages should be installed by the application installer alongside the embedded distribution.`; Basically, that boils down to """"drop the module files in the standard library directory"""", either during final install or between your build step and your installer finalization step.""
+"
+919,"""if its a desktop app, why not use one of the python gui frameworks?""
+"
+920,"I used that when I wrote my novels!; didn't know that!
+"
+921,"""thats a great resource, thank you very much joe""
+"
+922,"
+"
+923,"is it okay to use try/except like this you think?
+"
+924,"""So, I’ve been thinking about contributing to open source, and more specifically the Python project, do you guys have any pointers or tips for getting started?""
+"
+925,"ah ok. I mean ... isn't this a python channel? Lol not trying to be rude just wondering if you have a python question; I don't think I can help cause I don't know groovy :confused:
+"
+926,"okay
+"
+927,"""Yes, the middleware is included and in the correct location. Url language prefixes are functional so the middleware must be working..""
+"
+928,"""I see. So now this is quite strange... the session has the corrent language set, but gettext() always uses the default language - this is the bug I'm originally trying to solve.; And translation.get_language() is also not correct... I wonder how where it get's the language from if not from the request object""
+"
+929,"""No, gonna try quickly; no difference; redirect also doesn't add prefixes.... somethings not right, but I have no idea what... I followed the documentation to the T :disappointed:""
+"
+930,"
+"
+931,"2.0.1
+"
+932,"""Yes.. i guess the i18n set_language route isn't setting the language correctly. But then again, according to the django docs, updating the session should persist the language change (which isn't happening) but for whatever reason util.translation get's it's translation object from somewhere else..""
+"
+933,"
+"
+934,"is it ok to open git issue to ask a question? or is that frowned upon?
+"
+935,"so `split()` should be replaced by some `tokenize()`; umm i think i have seen it used in the wild but in general if you have a function in a file that needs some imports but its never used then why have the function?; what happens when you try to import again?; wouldnt that incur some overhead?
+"
+936,"thank you for taking a look!
+"
+937,"""I have a function that accepts kwargs into it, but then also within that function I call other functions that I pass different kwargs to, is there a specific naming convention to follow when this situation occurs?
+"
+938,"""Thanks, that makes sense. I think my problem is that I'm coming from languages with a _de-facto_ package management system (`npm`, `cargo`, `stack`, etc), and I'm finding that python doesn't have a _standard_ per se, and there are benefits and disadvantages to each approach.""
+"
+939,"""Part of your confusion about a standard is that Python has been around for longer than most of those other languages, so they got to benefit from starting out with a single officially-approved package management system. They knew it was needed, and included it from the start. Python didn't have that benefit, so it has a bunch of different options available.""
+"
+940,"`copy.deepcopy(dict)`
+"
+941,"""you can trivially fix this, if you know the sizes of every subset; ```
+"
+942,"do you have to implement your own compression?
+"
+943,"<@Alysia> I would search out the specifications themselves (or even the wikipedia pages) those generally have an example of the algorithm written and explained (jpeg for example <https://en.wikipedia.org/wiki/JPEG>)
+"
+944,"""Oh, and how about decompression :v I found something on internet that .jpeg cant decompress :v""
+"
+945,"""You might also consider a coding bootcamp, if you think you would learn better in a structured, focused environment.""
+"
+946,"```
+"
+947,"""Hey I come from a business background and started learning Python on my own, never done any programming before. I got a job 5 months after I started and spent no more than $15 on the education; But lots and lots of hours; 1. Build stuff you find useful or fun, and *see those projects through* - finish them. They must be hosted on github + preferably host the app on a website
+"
+948,"Do you mean <https://pypi.org/project/schedule/>? <@Darcie>; I'm setting up a webhook where I want to add a parameter like `?parameter=1`. How do I get that parameter together with the JSON request using python?
+"
+949,"""No , <@Conchita>.  I am talikng about adnvance python scheduler(APS).""
+"
+950,"""<@Clemmie> great, i will try here too thanks! :slightly_smiling_face:""
+"
+951,"Or Alexa has skills etc
+"
+952,"<https://stackoverflow.com/questions/5419888/reading-from-a-frequently-updated-file>
+"
+953,"""Hello Every body, I'm new in Python Developing.. Any Advises for the new guy?; thank""
+"
+954,"Oh so coooool
+"
+955,"""Hey guys, what am I doing wrong here?; <https://gist.github.com/danamer/be6c88313d8d4e0f8e72e3e23598ffa0>""
+"
+956,"""what are you trying to achieve, and what exactly is the error?""
+"
+957,"""<@Faustina> what are the three queries that are duplicates? Also, I believe you can get more help from <#C0LMFRMB5|django>""
+"
+958,"""<@Cindy> it duplicates this query 3 times, I tried to prefetch related models, tried to save queryset to list, to cache it, but that didn't helped.""
+"
+959,"""Yeah, weird things works out sometimes :smile:""
+"
+960,"""<@Darcie>
+"
+961,"looks wrong; how did you install python ?
+"
+962,"Thanks for checking!
+"
+963,"""If so, you could use a resumable API setup, and get automatic parallelism via client side libraries implementing that protocol.
+"
+964,"<https://pypi.org/project/python-resumable/>""
+"
+965,"""I don't see anything wrong with this approach. It may depend on the context of what you are ultimately implementing, but this appears to be okay to me :thumbsup:""
+"
+966,"U r amazing; Thanks
+"
+967,"<@Hiroko> the django code base?
+"
+968,"        lexicon = ElementTree.SubElement(xml_body, 'lexicon')
+"
+969,"""I successfully created a docker image for a flask application but when I decide to start container from this image it says  """"can't open  app.py file [Errno 2] no such file or directory""""; ```
+"
+970,"note for beginner: <http://pep8.org|pep8.org> :slightly_smiling_face: snake_case and spaces
+"
+971,"thats something I need to work on :wink:
+"
+972,"can’t use data from for loop in element?
+"
+973,"""Nope, PhantomJS development is suspended indefinitely <https://github.com/ariya/phantomjs/issues/15344>""
+"
+974,"Doesn't mean hobbyists with no life can improve it; xD
+"
+975,"Just took a peek at dogpile and the data it returns via burp... strange... it uses multiple different apis from like bing and such.
+"
+976,"   output = out.stdout.read()
+"
+977,"I think <@Priscilla> meant that he gets into the habit of including `self` even in non-method functions.
+"
+978,"```
+"
+979,"         '<https://www.googleapis.com/auth/drive>']
+"
+980,"
+"
+981,"It is a mistake?""
+"
+982,"Yeah... you need to retrieve the access token before you can send the request; Pretty sure; No idea... never used that before; The token would need to also be passed probs as a parameter in the request; And than get results
+"
+983,"""Thanks for the example, will take a closer look at it later. For now I noticed something else in your code - in the bottom you have this ```# Avoid circular imports problem.
+"
+984,"""`output = subprocess.run('lftp', '...', capture_output=True)`; then just `output.stderr` and `output.stdout`""
+"
+985,"""or you can use the """"`"""" symbol""
+"
+986,"I don't
+"
+987,"""it's a marco; by default on RHEL favor it would be; `%__python		/usr/bin/python`; I need to pick someone's brain on this; I have bunch of log messages in stdout which i capture with logging.getLogger(); messages are `'Processed 107367474 Packets'`; millions of them.; in order to filter them i have this subclass; ```class Mess_in_Bin_Conveter_Stdout_Filter(logging.Filter):
+"
+988,"Cool. Can you verify that your filter is being called?
+"
+989,"oh yes.. I messed with Ruby.. thanks <@Sasha>
+"
+990,"<@Conchita> are you sure the env var is populated correctly?; specifically `data = os.environ['GOOGLE_APPLICATION_CREDENTIALS']`
+"
+991,"  """"token_uri"""": """"<https://oauth2.googleapis.com/token>"""",
+"
+992,"  """"auth_provider_x509_cert_url"""": """"<https://www.googleapis.com/oauth2/v1/certs>"""",
+"
+993,"  """"client_x509_cert_url"""": """"xxxxx""""
+"
+994,"""When running locally there is 1 change:
+"
+995,"data = os.environ['GOOGLE_APPLICATION_CREDENTIALS']
+"
+996,"credentials = ServiceAccountCredentials.from_json(
+"
+997,"""Right <@Hiroko> I'm sorry but I wrote up the wrong code here, tried so many different ways so messed it up. `from_json` just takes in the json file, while `from_json_keyfile_name` takes in two args; json file + SCOPES. The code that works locally is;
+"
+998,"credentials = ServiceAccountCredentials.from_json_keyfile_name(
+"
+999,"do you ave a stack trace?
+"
+1000,"guys i have this function executing runuser and some long java line; None; and my output is; None; am I wrapping up my command correctly?
+"
+1001,"Yes and still the same error
+"
+1002,"""Could this be a Python issue ?
+"
+1003,"is the file you're running called `spacy.py`? probably conflicting...rename it and try again?
+"
+1004,"""yup, you can always use regex, but I keep that as my last resort :stuck_out_tongue:""
+"
+1005,"""Thanks, taking a look; Nice guide. I changed from
+"
+1006,"Ok will do thanks :taco: <@Chester>
+"
+1007,"""Hi guys,
+"
+1008,"oh cool! :smile: I'll definitely start using that
+"
+1009,"should basically be part of the pipeline or atleast verified in a linting step
+"
+1010,"• <https://stackoverflow.com/help/how-to-ask>
+"
+1011,"""
+"
+1012,"""<@Wilber> yep doing that already, its the knowing when to make a list or when to append""
+"
+1013,"""```tree = {}
+"
+1014,"```
+"
+1015,"""Hi all - I have a 64bit windows machine and am trying to use `pyinstaller` to compile a program that can run on a 32bit machine. I remember being able to do this about a year ago, but can't find the source on how to do it. I have the 32bit Python installed on my machine, I seem to remember there was some way of specifying which Python to use from the command line when using `pyinstaller`""
+"
+1016,"I need to create a subdomain for every client (`<http://a.xxx.com|a.xxx.com>`, `<http://b.xxx.com|b.xxx.com>`).
+"
+1017,"Do I need a new cloudFront distrib and route 53 record for every new client?
+"
+1018,"Did installing them give you problems?
+"
+1019,"ah I just realized the string has both; using a library is never a bad idea if its getting compliated
+"
+1020,"""and if you ctrl-f `dropped support` on <https://apscheduler.readthedocs.io/en/latest/versionhistory.html>, the only version listed is python 3.3; tl;dr <@Darcie> one of the best ways to answer that question is to look in the code""
+"
+1021,"""I want to filter the list of URLs and I don't need social URLs.
+"
+1022,"`[url for url in website_list if url not in exception_list]`
+"
+1023,"Nope.
+"
+1024,"""Hoooo yeah that looks great. I'm running out of space so I won't be able to test on a VM, but I will be able to make some tests on the final machine. Thank you guys""
+"
+1025,"""will that let me pass 1 argument to all of the inner functions and receive 1 output from the outer (?) functions; lol i guess i could just look at that  huh!; i think thats exactly what I am looking for, thanks <@Hiroko>""
+"
+1026,"""I’d be surprised if it is.
+"
+1027,"""Looks like `lr_decay` is used in this line in the `train()` function:
+"
+1028,"I will check it out!  Thanks for the assist
+"
+1029,"""Hello. What whould be the simplest solution in Python for REST WebService that refuses a wrong value for """"email"""" key in .json file?""
+"
+1030,"<@Sasha> Thank you :slightly_smiling_face:
+"
+1031,"UTM-free link: <https://dzone.com/articles/you-should-listen-to-metal>
+"
+1032,"""I like my music 'dark' , but not my IDE.""
+"
+1033,"Metallica - one love :3
+"
+1034,"""Hey all! This might be a basic question, but it’s been killing me…I’m trying to use the python dateTime library and I create an object with: datetime.datetime(year, month, day, 0, 0, 0)""
+"
+1035,"Absolutely.
+"
+1036,"ok so then lists it is
+"
+1037,"""<@Bethany> lol well I know it's a permissions issue at least ... cause this works :smile:
+"
+1038,"like that
+"
+1039,"""If you want to go down the rabbit-hole of fancy terminal animation, the `curses` library is also available for that.""
+"
+1040,"yea that's pretty simple; <@Priscilla> so you need to iterate through the list of serials and create an empty list as the value of that key in a dict
+"
+1041,"if sys.platform == 'darwin':
+"
+1042,"""lots of ways to do it; I quite like the `OrderedDict(zip(keys, vals))` pattern cause it allows you to really see what the vals will be by putting them all in a list; I use it a lot""
+"
+1043,"""anyone know an atom plugin to simply run the file I am working on? vscode has this, but nothing is working on atom for me""
+"
+1044,"<@Priscilla> search for `script` in packages.
+"
+1045,"<https://gamedev.stackexchange.com/questions/20/where-can-i-find-free-sprites-and-images>""
+"
+1046,"""so i have a `while True:` loop in my main, and it constantly prints out the pass/fail to the console, if i wanted it to only print when finished I would need to place that `while True` in the `test_2` function, does that sound right?""
+"
+1047,"My first computer stored programs on audio cassettes.  :sweat:
+"
+1048,"what was the notch for? why didnt they machine it with the notch?
+"
+1049,"Click comes with a function to find a suitable directory for a config ; Check out ‘appdirs’ on PyPI as well
+"
+1050,"I'm doing it for the first time and I don't know if there are other better alternatives than a `lock` file""
+"
+1051,"""yes, the issue I'm having is I have two DF's and they Both have ['ID'] and ['Date'] and i want to join them but having trouble""
+"
+1052,"""soo - anyone wanna do some sleuthing for me? I'm a part time mentor for a software dev company and I suspect one of my students has copied his entire project from somewhere else. anyone know if there's a way to tell if a github repo was cloned/copied even if it's not forked?; basically the entire project is 95% finished in the first commit, dude doesn't speak good english, yet his readme is perfect english, lol, and the whole project uses tons of concepts and tech not taught in the course he would have taken.; he didn't fork the repo from anywhere, that was the first thing I checked, but I suspect he cloned/copied it from somewhere and just uploaded it as his own which would be bad""
+"
+1053,"this is def a copied project. all he did is change the CSS lol
+"
+1054,"""Is there anything wrong with calling windows commands with the os module vs programmatically doing something in python?
+"
+1055,"""yea just pick a single number from that range; so long as your `a` is less than your `b` it should work, if `b` is less than `a` `range` will return nothing and your thing will ded; or
+"
+1056,"looks like you just add '.sheet1' or whatever number to the end of your gc.open statement.; lol i just noticed the example text. Gold.
+"
+1057,"""For one of my scrapers I'm getting ```requests.exceptions.ConnectionError: HTTPSConnectionPool(host='<http://bitinfocharts.com|bitinfocharts.com>', port=443): Max retries exceeded with url: /top-100-richest-bitcoin%20gold-addresses-6.html (Caused by NewConnectionError('&lt;urllib3.connection.VerifiedHTTPSConnection object at 0x10bf4dc50&gt;: Failed to establish a new connection: [Errno 50] Network is down'))```; Does this imply that the site is blocking my ip?""
+"
+1058,"""not necessarily; there are other error codes that are more likely to show up if the website blocks you; if you can confirm that you get this error code reliably, and at the same time you can connect to other hosts, then maybe""
+"
+1059,"is `pkey_file` a file handle or file name?
+"
+1060,"ah <@Clemmie> :taco:
+"
+1061,"""this is the final result. problem is if i print the row data before and after inserting values into hireddate, the hireddate column is not at the end.; this the printout before and after inserting values into hireddate. it doesnt create the column. only the column shows after exporting?; oh; my; fn; gosh; my column is hiredate not hireddate :face_palm:""
+"
+1062,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1063,"""<@Emerita> In general, what you're wanting to do isn't possible. Windows doesn't have the capability of tracking who created a file. The best you can get is the owner, but that's not quite the same thing. Your stated OS directories and read-write access plan seems like a reasonable first-shot.""
+"
+1064,"""yep, looks like the cert expired; <https://github.com/celery/celery/issues/5477>""
+"
+1065,"""<https://github.com/celery/celeryproject/issues/24>; <@Hiroko> seems like this issue is a dup of #24, only one guy has access to the DNS control panel and doesnt seem like he's responding""
+"
+1066,"I forgot to add “overlaying=‘y’” to the second axis. Oops. It all works when I do that
+"
+1067,"Hello; anyone fimilar with jupyter noteboook?
+"
+1068,"""Oh ok; When i write a program in jupyter and run it , it jumps to the next line; why?; why cant i run it?""
+"
+1069,"""i would be suprosed if you didnt know loops after watching 10 videos.
+"
+1070,"""Oh yeah — he is great. I have been following him for quite long now, and recently started supporting him on Patreon too!""
+"
+1071,"""Hello there. I'm new to python and my supervisor asked me to reproduce a plot, using equations and data from various papers. I wrote a code, but it doesn't work at all. I'd like to know if I'm making code mistakes or there are problems with the equations I'm using. Thank you in advance for your help :slightly_smiling_face:""
+"
+1072,"# import matplotlib.pyplot as plt
+"
+1073,"""yes I did all validation, its below it. I was unable to select the lower part that why. ""
+"
+1074,"Anyone on?
+"
+1075,"
+"
+1076,"
+"
+1077,"use this link; and let me know if it works out for you""
+"
+1078,"""Sweet, thanks <@Chester> this :taco: belongs to you; Cool thing about programming is that you don't have to work too hard to learn something new every single day""
+"
+1079,"
+"
+1080,"print (r.request.url)
+"
+1081,"ok thanks for the help you are life saver:+1:
+"
+1082,"
+"
+1083,"(is it about url_for for example?)""
+"
+1084,"if multiple threads are used, you need to use `scoped_session`, so connection would be per thread; &gt; Working outside of application context
+"
+1085,"""<@Dawn> okay, so you think your code is ugly mostly because it violates the single responsibility principle, a lot :slightly_smiling_face:
+"
+1086,"""I think the idea (as I understand it) is that you expose field types e.g. `text`, `numbers` etc to a user so that they can make their own field e.g. a `name` field of `text` type.; Yes. I think it is what I am looking for. Thanks. :taco: <@Chester>. I'll start from there then.""
+"
+1087,"""A bit of help? In pure python, i have a list of dicts. Each dict has a key `name`. How can i find how many duplicated values of the `name` key exist?; Example code: ```[{'_id': ObjectId('5cd009d5ba4270be3808d0f4'), 'name': 'jegug'}, {'_id': ObjectId('5cd009d9ba4270be3808da68'), 'name': 'nifev', {'_id': ObjectId('5cd009d6ba4270be3808d39d'), 'name': 'tohez'}]```""
+"
+1088,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1089,"This code is in a script called console.py:
+"
+1090,"""Hi, friends. Apologies if this is too basic of a question. Started learning to code with Think Python and fell in love with it, but wound up getting hired for a devops role in a Ruby house. Only now, after two years, looping back around to my first love, and have what's probably an entry-level question:; ```class Hexacopter: 
+"
+1091,"""So the other package is able to do an absolute import because python understands it's all a package. It sounds like that won't work for you because you don't have an actual package yet that Python would recognize; When you do `from .facenet`, you're saying """"from my current package level"""", but there is no facenet package inside facenet/src; You don't need to reference the facenet package though. You just need to get to a namespace that has what you want. So you just need to go another level up with `..`""
+"
+1092,"`/justask`
+"
+1093,"""^good point botalot; I'm trying to use pathlib to check if a file exists, if it doesn't create it with the following try except block:
+"
+1094,"
+"
+1095,"""what you need to watch out for is configuration inheritance; e.g. if `DATABASE_URL` is inherited from your staging app, then your review app could end up using the staging DB which is _probably_ not what you want""
+"
+1096,"for i in range (1,4):
+"
+1097,"unless its in a “nice to have” section?
+"
+1098,"Is that what you see when you right click and view code on google?
+"
+1099,"Looks like sql is rather slow...; &gt; When reading, the top three are test_feather_read, test_pickle_read and test_hdf_fixed_read.""
+"
+1100,"""we've deployed several systems like this. It's actually a very foolproof way of doing on-premise stuff in secure, airgapped locations. Clients love it because it's also very auditable and fits with their existing tools.; eh. you run into issues with `.whl` files""
+"
+1101,"Right. I meant (and probably should have written): `cmp` does not exist anymore as a keyword for `sort`/`sorted` in py3...  :smile:; With larger lists the two list comprehensions will be faster than `sort/sorted` though...
+"
+1102,"""I think this one will scramble the original order of the non-1 elements, though.""
+"
+1103,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1104,"""question about python-ldap.  I installed using 'pip install python-ldap' it installed correctly [running python 3.7 btw]. I open Python to start testing. I type import ldap, it says no module; i tried import python-ldap, it says invalid syntax""
+"
+1105," building '_ldap' extension
+"
+1106,"
+"
+1107,"""i had found one article searching that start_TLS_s() , but I will pour over this as well, thank you""
+"
+1108,"""<@Sasha> are you thinking something like this?
+"
+1109,"""Thanks for sharing <@Mildred> :taco: ! I found this 5 months ago, never used and forgot about it; Will run it agains some of my scripts; Super cool""
+"
+1110,"""That example won't quite work, but `Counter` has a `most_common()` method.""
+"
+1111,"I dont see most_common; <@Leida> any other simpler way of doing this?
+"
+1112,"""found this another method: `max(set(a), key=a.count)`""
+"
+1113,"ahh yea `os.path` might be it
+"
+1114,"  Getting page <https://pypi.org/simple/botocore/>
+"
+1115,"  Looking up """"<https://pypi.org/simple/botocore/>"""" in the cache
+"
+1116,"  Request header has """"max_age"""" as 0, cache bypassed
+"
+1117,"```
+"
+1118,"""I have been looking into existing API made by a guy before me, and at backend it has like lot of queries like this `select * from users where user=%(user)`, and I was just wondering if that is the best way to go about in terms of flexibility and maintaining it""
+"
+1119,"""<@Johna> You mean the filenames get converted to lower case? Do you know where in the process that happens, i.e. were they uppercase at some point, or are they always lowercase when supplied by the API?""
+"
+1120,"from yaml import load, dump
+"
+1121,"
+"
+1122,"how do I actually verify a `checksum` when I download a binary?
+"
+1123,"what’s the best way to initialize a string that is getting returned inside a Class’s `def __str__(self)`?; None
+"
+1124,"""Hey waqas, it depends on what you want the chatbot to do. The most common use case is implementing natural language processing (NLP) to an utterance/text message to identify a discrete “intent” e.g. “Hey Siri, what’s the time?” may map to an intent called “lookup-time”. These intents are effectively conversational states, and you can design and control the flow of conversation programmatically by managing these states. I recommend trying out Google’s Dialogflow (<https://dialogflow.com/>) in order to get a better understanding. The good thing about Dialogflow is that the machine learning model is provided for you so that you can just focus on designing the conversational flow. However, if you’re planning to self-learn ML and chatbots from the ground up I can supply you with a learning roadmap :slightly_smiling_face:""
+"
+1125,"""<@Scot> I don't understand how `A[1,0]` could actually refer to something""
+"
+1126,"""because i think using async http requests instead would allow me to keep track of the accounts and their rate limit, easier than trying to sync data using mp; and which method would be more efficient; my main problem with mp is communicating between processes which apps are available.""
+"
+1127,"""It's in the docs, but the general idea is, find out what exception you are expecting, and catch that.; And if you have to for some reason cast a wide net like this, make sure you are logging the exception you caught; because it's easy to make assumptions about why you think you got there, but best to know for sure""
+"
+1128,"""Anyone with experience on GCP, pubsub and hangout api? I'm setting up a hangout bot that connects with Pubsub. But messages aren't posted to my topic. I have gone over required permissions, service accounts etc but can't seem to crack it; Configuration of the Hangout bot is set to publish messages to a given Pub/Sub topic. But nothing is published to it and I don't see any activity from the hangout api either""
+"
+1129,"ahh yea `\b` wont wokr because there's no word break; is it always going to be `api.{API HOST}.some`?
+"
+1130,"""No, i'm looking for all string in line starts with """"${"""" and ends with """"}""""""
+"
+1131,"What if i needed the entire process to sleep because i need to wait until some rate limit has reset.
+"
+1132,"""awesome, I'd be curious to hear your experience after you play with it for a bit.; also, don't forget, you don't really have a backup until you've restored from it.  so make sure you test out your restore process.""
+"
+1133,"You're looking at wrong place
+"
+1134,"""Anyone here ever use aws boto3 to do a generate/get_credential_report?
+"
+1135,"
+"
+1136,"make sure that when it is parsing that it only get the string
+"
+1137,"I'm not sure if it is the 'best practice' way or not.
+"
+1138,"<@Annabell> you can include that here rather than using links
+"
+1139,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1140,"It looks like there are some non string text in the middle so thats why you are getting the error
+"
+1141,"""well i just found if i strip $, (, ), or ',' then ill have to reinsert those characters when i export the final dataframe -_-; im just gunna find a currency library to hopefully be able to recognize and add currency with $, (), or ','""
+"
+1142,"""Hi, is there a faster way of getting a `sqlalchemy` relationship count?
+"
+1143,"""I see, so its much better to do a count query rather than getting the count from the relationship?""
+"
+1144,"    session.mount('https://', adapter)
+"
+1145,"    return session; I am using this HTTP request Adapter to try when i have got 5XX errors from requests library; None; I have using this HTTPAdaptor to getting from HTTPS endpoint using requests_retry_session <http://function.It|function.It> works well ben when i want to getting 5XX error when i remove http rule at ELB Security Group from backend.I can not get any timeout or connection error exception.; Why I can not getting any exception when i break communication between this lambda function and backend endpoint""
+"
+1146,"""your question is quite unclear; are you saying that there is no exception thrown, *and* no response returned? How can this be true?; are you saying that it will just hang forever?""
+"
+1147,"logging is a heriarchy
+"
+1148,"ahhhhh that’s brilliant. I’ll try this
+"
+1149,"we use it at work
+"
+1150,"I have a partial script ready. Anyone would want to have a look?; That's great <@Hiroko>""
+"
+1151,"<https://www.youtube.com/watch?v=no0qB8CVspY>
+"
+1152,"Do you have any idea
+"
+1153,"
+"
+1154,"query = {
+"
+1155,"```; Not really sure if that would work, I don’t know enough about graphql sorry.""
+"
+1156,"t = Test(123)
+"
+1157,"""i tried it but its eleminating the json; am not sure why it is not showing the json in the POST request; am getting this response but there is no json in this request; import requests
+"
+1158,"""looking at the example from <http://python-requests.org|python-requests.org>, I’d say `json` is expected to be a dict
+"
+1159,"```
+"
+1160,"&gt;&gt;&gt; payload = {'some': 'data'}
+"
+1161,"```; oops, wrong example
+"
+1162,"&gt;&gt;&gt; payload = {'some': 'data'}
+"
+1163,"```""
+"
+1164,"    'JENKINS_URL/job/JOB_NAME/build',
+"
+1165,"    'JENKINS_URL/job/JOB_NAME/build',
+"
+1166,"""I am using Tkinter and i need a way to see which button was pressed; Like I have:; ```Button(master, text='Exit', command=mainline).grid(
+"
+1167,"<@Christene> if it is short-ish you can use the snippet feature here to show it for feedback. If it is longer/multiple files then throw a link to the git repository
+"
+1168,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1169,"""<https://github.com/Matt5032/Automated-Task-Adder>; First working project, I have no concept of how structurally it should be done. Feedback is appreciated""
+"
+1170,"""my first question is your imports in the ui portion; ```python
+"
+1171,"""::taco:: <@Bethany> thanks man, i'll check it out""
+"
+1172,"""<@Walton> I'm planning to monitor VMs almost exclusively. Webapps hosted thereon, and health checks on the servers themselves (disk usage, inode creep, etc.)""
+"
+1173,"""Well, kinda; You can see pip bundled with python here: <https://github.com/python/cpython/tree/e42b705188271da108de42b55d9344642170aa2b/Lib/ensurepip/_bundled>""
+"
+1174,"thats the exact version I have when I use PIP in venv. 10.0.1. So am I stuck with 10.0.1 on fresh VENV until I update it inside the venv or that cpython gets updated?
+"
+1175,"What do you guys use?
+"
+1176,"""I don’t think you can really solve this in any permanent way. Every time a new version of `pip` releases, you’ll see that message.
+"
+1177,"""Thanks I finally get how the program functions. Now if you dont mine could you explain :-
+"
+1178,"""hello all I was wondering what funtion could I use in a tkinter window to basicly have a console; Like when I do `print(""""Hello"""")` in the console it would show print; how do I do that; I hate to @ people but <@Sasha> didn't you work with tkinter or am I mislead?""
+"
+1179,"I'm currently setting up an API proxy. I'm planning to use tokens as a security measure for authorizing HTTPS requests. Do I pass these tokens in the header of my requests?; What is best practice?
+"
+1180,"Strange use of `pathlib` here. You don't need to cast `Path.home` to `str` right away, you can instead construct the path you need  like `Path.home() / 'Credentials' / 'slack.json'` and then convert it to `str`""
+"
+1181,"Here you could just call `self._refresh_ims()` instead of duplicating the code; <https://github.com/KaluMba/Slackbot/blob/master/Slackbot.py#L55>
+"
+1182,"This looks like `_get_im_ID` method as well; <https://github.com/KaluMba/Slackbot/blob/master/Slackbot.py#L98-L99>
+"
+1183,"This isn't a good way to deal with errors. You should really define and throw a custom exception here; Because otherwise the user gets a wild `AssertionError` back - not very helpful. Also, you can run python with optimizations that turn runtime assertions off, so you won't even get any error; <@Conchita> <https://swagger.io/docs/specification/authentication/bearer-authentication/>""
+"
+1184,"""Hi everyone,
+"
+1185,"""I didn't deal with the variable length problem yet because I am using this JSON structure in a Django template and I am trying to create a table from it. Soon, I will look into the variable length issue and revert with my solution. Thanks again <@Berenice>""
+"
+1186,"• <https://stackoverflow.com/help/how-to-ask>
+"
+1187,"""
+"
+1188,"the command `conda` was not being discovered after the upgrade.
+"
+1189,"i want to convert `[foo](/test.pdf)` -&gt; `[foo](<http://mydomain.org/test.pdf>)` but leave the <http://example.org|example.org> alone""
+"
+1190,"""The easiest solution might be going for the syntax first; Then check the beginning of the URL for any protocol with `[a-zA-Z]+:\/\/`; Not sure if you have to escape the slashes though; If it doesn't have one, then https should be the default""
+"
+1191,"<@Ashley> do i have to pass that csrf magic or sessions class will do it for me?
+"
+1192,"does do you get any errors in the shell/logs were you are running django?
+"
+1193,"Does anyone know how to make PyInstaller include _all_ the standard library modules in the build?
+"
+1194,"• <https://stackoverflow.com/help/how-to-ask>
+"
+1195,"""
+"
+1196,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1197,"None
+"
+1198,"""If you are doing this as a desktop app in all python, then yeah check out ^ or something similar""
+"
+1199,":cold_sweat: :cold_sweat: :cold_sweat:
+"
+1200,"<@Hiroko> so its this? <https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies> and specifically this line in package <https://github.com/celery/celery/blob/master/setup.py#L227>; Thank you for SO/docs. Very helpful; <@Hiroko> :taco:
+"
+1201,"Anyone working on python Flask-AppBuilder ?
+"
+1202,"""Little question how to read a variable from kubernetes configmap from a python script ? ```os.envior['name'] = output
+"
+1203,"Thanks Joe
+"
+1204,"Thanks. I'll take a look.
+"
+1205,"KO: 이시 리움에 구축 된 증권 거래소, 6 월에 1 호 기업 상장에CN: 建立在以太坊上的證券交易所將於6月在第一家公司上市EN: A stock exchange built on Ethereum, will be listed on the first company in June'; and I get an error; TypeError: api_call() takes from 2 to 3 positional arguments but 4 were given; which I'm sure is something to do with the text""
+"
+1206,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1207,"I'm not familiar enough with other character sets to see what I need to do
+"
+1208,"""As far as I can tell the docs are out of sync with the codebase - there doesn’t seem to be a SlackClient in the codebase, unless I am missing something; The web client looks like the right one to use""
+"
+1209,"thanks; if you're ever working on a blockchain let me know. <mailto:john@coindesk.com|john@coindesk.com>; blockchain project
+"
+1210,"""Also, it's worth noting that Gmail has a limit to the number of emails you can send per day.""
+"
+1211,"""When i try to access self.request in my View, it says, self is not defined; This line
+"
+1212,"""I'm sending HTTPS requests to a Google Function. I'm getting `KeyError: 'message'` which causes the G Function to crash. Which makes no sense, as the message key is clearly part of the JSON body. I have tested the it with requestbin:; Anyone see why this is happening?""
+"
+1213,"Does there exist anything similar to this great Slack channel for nodejs / javascript?
+"
+1214,"""<@Carlena> I am a self-taught Python dev who work remotely for a team with no python devs. They got company accounts at coursera and a couple of other sites and for paid courses, I just make my case for why I should get that course to my manager and its usually approved. That helps a lot; This is really great. Thank you Simo!; you helped me fix a lot of frustration here; :smile:""
+"
+1215,"""<@Carlena> I can recommend <https://learning.oreilly.com> for Python. It has books as well as video courses. Pluralsight is another great option. I would recommend staying away from Udemy, Lynda/LinkedIn Learning.""
+"
+1216,"""<@Conchita> I will beback in touch to pick your brains on specific topics, even better will get them to sign up to this slack group :slightly_smiling_face:""
+"
+1217,"""<@Palma> please, don't cross-post your question""
+"
+1218,"""Again I changed something in my sublime , And Do I need to reopen that file in IDLE and run again ? is this only option ?""
+"
+1219,"<@Leida>; I can see a version while go in to C &gt;&gt; Python34 &gt;&gt; python --version
+"
+1220,"Now How I can debug my code. Is there any function for that.
+"
+1221,"I install two time. Both that time it installed inside c:python34
+"
+1222,"No. I'm asking find bug and debug . For ex)  if I pass the argument to the function mean How I can check the argument received to that functions or what values come for that particular arguments etc... Like developer debugging tool.; 3.7 ?; Where I can download 3.7 ? For window 64 ?; Could you send me the exact URL ?
+"
+1223,"None
+"
+1224,"Which one I should choose ?
+"
+1225,"Fpr example in coldfusion if I dump( argument ) it will show all argument with its value in structure format. If I did abort(). then next line of any code will not excute; Sure. I will take a look on your link <@Hiroko> Thank you
+"
+1226,"So there is any way for it ?
+"
+1227,"""Huh using VS code it's slow my system; Even I'm having good configuration system; So generally vs code take more time to load, Hang on.. etc..; So I always give priority to sublime text only :slightly_smiling_face:; Any feedback about my point <@Leida> <@My> <@Hiroko>""
+"
+1228,"I execute it in a terminal
+"
+1229,"if nginx is getting all the requests that’s a good sign.
+"
+1230,"""Does someone knows how to add the included tag in Django Rest Api JSON API?; ```
+"
+1231,"- I think the answer is great - I would say exactly the same…
+"
+1232,"thx :slightly_smiling_face:; and regarding way of testing with something like a “record”?; is there a lib like that for sqlalchemy? Like `betamax`?
+"
+1233,"For more information on inline code formatting with backticks click <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages#inline-code|here>.""
+"
+1234,"None; this is the error TypeError: '&lt;' not supported between instances of 'Person' and 'Person'
+"
+1235,"""It won't, the GIL only protects the internal state of the interpreter. You can still have races in your python code.; <@Rubie> unfortunately, there is no automated way. This is why threads are such a pain""
+"
+1236,"
+"
+1237,"```
+"
+1238,"""Its going to be a Windows machine. And to answer your question, unfortunately that would not help in my case... there are many tasks I would like to do and putting each of them inside a cronjob scheduler would not be a viable option""
+"
+1239,"  {u'keys': [u'<https://www.example.co.uk/category/bath-lifts>', u'bath lift', u'MOBILE'], u'impressions': 984.0, u'clicks': 140.0, u'ctr': 0.14227642276422764, u'position': 1.3587398373983741}]
+"
+1240,"```
+"
+1241,"""Nope, you need to loop through it, I'm afraid. If it is a performance issue or a common operation, you might want to construct a second dictionary with the reverse mapping, i.e. use `'bath lift'` as a key and the rest of the data as a value.""
+"
+1242,"  self_.request.get(""""<http://github.com>"""")
+"
+1243,"# in my test the """"request"""" is stub or mocked 
+"
+1244,"yeah you can add it manually but its up to you to add it :stuck_out_tongue:
+"
+1245,"not many I guess. thanks I will try that
+"
+1246,"I just created SO question because are more than 24 hours on this problems and can't figure out how this works; I also asked several time on <#C0LMFRMB5|django> channel on freenode irc server without success; I've also posted the question on SO if someone care: <https://stackoverflow.com/questions/56290218/django-timezone-doesnt-perform-the-right-conversion> :smile:
+"
+1247,"what kind of naming conventions do people use for class instances? at the moment I do `foo_handler = Foo()`but its a bit long
+"
+1248,"
+"
+1249,"But I am afraid that won't do you much...""
+"
+1250,"""Hello Everyone, 
+"
+1251,":rubberduck:
+"
+1252,"
+"
+1253,"```; Why is my test telling me ’Undefined variable ‘mock_request’’?""
+"
+1254,"""This is a big wall of text, and you're omitting the actual error message.
+"
+1255,"""Good morning.  I am working with Panadas for the first time, and so far really liking it.  I am trying to do some analysis on phone records.  long term there are a few things I want to do, but focus right now is determining maximum number of concurrent calls to the PSTN at an individual location.  I have functioning code for this, but pretty sure there is a much better way of doing this (this works, but its slow).  the part below is the part I'm sure there is a better way.  prior to this snippet of code I am reading the CSV file(125 column, 15000 rows) into a dataframe, filtering it down to just the PSTN Calls, and just the columns I used for that purpose I end out with a dataframe that is is about 10250x6.  I'm then running it through loop below to poll the data and check minute by minute in my interested time period how many calls were active at the polling time.  This works ok, but it is slow, and I'm going to be missing data still (calls that start and end between polling periods), There are a few ways I can think of to catch those calls as well but it's going to make this even slower..is there a better way I should be doing this?  The idea is with the output then I can quickly find the max calls, I can graph the data show trending,  etc.
+"
+1256,"    found_agent = agent_department.json()
+"
+1257,"""It works; But now I have another problem. If `some/path/new/` exists, `shutil.move` will move my directory to `some/path/new/old`. Why is that?""
+"
+1258,"Thanks for your help
+"
+1259,"the Idea is that most packages I'm working with requires python3; I'm not working with virtual environment another way?
+"
+1260,"but does this mean I can remove all the packages (installed without pyenv) normally and this won't affect my new work on the pyenv
+"
+1261,"getters and setters are from statically typed OOP languages; i think in C# or java was where all internal parameter access is reccommended to have getters and setters by default; its so that you wont have to modify your interfaces when you need to add something to the access like logging or counting or what not; its not a python thing to do. If you blindly bring OOP principles from c#/java to python you can end up with redundancy.
+"
+1262,"yep
+"
+1263,"""```
+"
+1264,"""Do you need to verify that your pages look like expected? Or you're actually clicking on these buttons, select options from drop downs, etc""
+"
+1265,"This is nuts. Good luck with making it work with `pytest-xdist` :slightly_smiling_face:; &gt; on click links working as expected
+"
+1266,"""we are doing UI chnage in next version , and we want that UI verification for next version""
+"
+1267,"Related""
+"
+1268,"```
+"
+1269,"• A shallow copy constructs a new compound object and then (to the extent possible) inserts references into it to the objects found in the original.
+"
+1270,"""I have a python file that I compile in to an `.exe` I understand how to pass arguments to it, but how do I return data. For example I have a function that does something and want to return some data to confirm its done. But in my `__main__` part I am not sure how to return that.
+"
+1271,"""Trying to create a minimal example is a great approach, and can often lead you to better understand both the question(s) you actually need to ask, and the tool you're working with; It sounds like you have a super complex means of getting those settings in place and it's having unexpected behavior. I would try to rework that system so it's much simpler and straightforward, and hopefully that will clear up that problem. You can also have multiple settings files and point at specific ones for the environment you want to run in, if you aren't doing that already; Regarding the syntax error, I'm not an sql guy, but I would guess you either need a semicolon at the end, or maybe the new line stuff is messing with it; I'm thinking they might not be actual new line characters""
+"
+1272,"I'm not quite sure what you mean. Are you looking for `(.*?)` to get a minimal-length wildcard?
+"
+1273,"what are you trying to get there?
+"
+1274,"""Hello... I tried to connect to a couchbase cluster with the code below but it displayed an error message : """"invalid identifier in code"""" pointing to the line """" ('<couchbase://localhost>') """"
+"
+1275,"I prefer <http://regexr.com|regexr.com>
+"
+1276,"""Nice, that is more easy to read too! Can you pls elaborate on what you mean by boundaries?; Didn't know either, bookmarked! thanks""
+"
+1277,"""it's JS, <@Malena>  it is pure nonsense by default, I don't know how removing newlines counts for efficiency in transferring it around""
+"
+1278,"i’m playing around with pyminifier tm <@Malena>
+"
+1279,"You want 10 business days after the current date?
+"
+1280,":thumbsup_all:
+"
+1281,"<https://pypi.org/project/mysqlclient/1.3.13/>; <https://pypi.org/project/mysqlclient/1.3.13/#files>; You might need to build it yourself
+"
+1282,"yeah I was afraid of that. lol; was hoping for the lazy way out. haha; I very seldom build from source - do you know of any tutorials on that by any chance?; I know where to get the .tar.gz and where all the stuff *should* end up :slightly_smiling_face:
+"
+1283,"yea I just confirmed 1.4.2 will be good w/ the client and also will future proof it for when they upgrade; thanks!
+"
+1284,":neutral_face:
+"
+1285,"""<@Hiroko> The rules are: the robot must have a random name starting with 2 uppercase letters followed by 3 numbers. Each time you create one you can not repeat the name of another. Each time the robot is reset it must give a different name. The exercise passed the excersism tests but I would like to improve it if possible to also learn.; <@Jorge> It's weird but the exercise passed all the excersism tests, I'm going to review anyway what you told me, I'm using python 3 and obviously I want to improve my code and learn""
+"
+1286,"
+"
+1287,"
+"
+1288,"
+"
+1289,"
+"
+1290,"ah ok and passes what ever is left over to the parent; TIL :stuck_out_tongue:
+"
+1291,"""How do you check if a class has a method and in case call that method or return something else?; cls.foo(a) if hasattr(cls, 'foo') else True; or with getattr?""
+"
+1292,"very nice; i'm on the site now; Quite nice; i like the discontinued project for domain monitor; that is always a tool people charge a lot of money for; do you do any side projects for fun?
+"
+1293,"<https://github.com/sayanarijit?tab=repositories>; I just joined the company. I’m yet to get permanent""
+"
+1294,"""<@Ashley> Woow thanks for the suggestions, I'll use it as best practice! thanks again""
+"
+1295,"""I'm not sure what the Java warning is about, but floats can be inherently weird at edge cases:
+"
+1296,"""I think I’ll have to pause deployment for a bit :sweat_smile:; <@Nigel> in the case of upon installation extension building, that means that you’d have to install it on the server to test the build?""
+"
+1297,"""Seems to work:
+"
+1298,"what cases?
+"
+1299,"""You won't know, generally, short of seeing errors when you try to run things. Generally you don't want the name collisions that would cause such confusion""
+"
+1300,"""Interesting, is weird as when I go check the website or paste the link it works.""
+"
+1301,"    datetime.strftime(start_date, '%m-%d-%Y') + ' ' +
+"
+1302,"		format='%(asctime)s: %(message)s',
+"
+1303,"Cool thanks <@Hiroko> :taco:
+"
+1304,"""Anyone know how to return a custom error message with a 40x status code in Flask? I've tried regular make_response with text, aborts, jsonifys and i can't get it to return a response body EVER; ```def etresponse2(e = '', statuscode = 404, headers = None):
+"
+1305,"You guys need more information to help me with this? :disappointed:
+"
+1306,"""ooh I see, thanks for the help <@Ashley> I will try that then""
+"
+1307,"""I am getting this error on a fresh brand spanken new python 3.7 venv.  This is the first command after creating and activating the venv.  Any ideas why?  I mean the error is clear but I dont know why it would be a problem.
+"
+1308,"Installing collected packages: pip
+"
+1309,"""If not map, you can still go with list comprehension""
+"
+1310,"""In case u want use multi threading or multiprocessing, u can use inbuilt concurrent.features module""
+"
+1311,"```
+"
+1312,"can you give me code for that
+"
+1313,"import time
+"
+1314,"driver.execute_script('window.scrollTo(1, 500);')
+"
+1315,"
+"
+1316,"""None; Yup, This is my snippet. Here I can able to scrape comments. How can I scape the replies ? where it lies in snippet""
+"
+1317,"""Yeah exactly what method I need to apply for this ? comments.list ?; How to define that in my snippet; I have taken the reply count with
+"
+1318,"""Why not add the key by volume?
+"
+1319,"oh we are using recursion... cool <@Corina>; not a homework.. just wanted to know how thats really done
+"
+1320,"""<@Corrin> if you want help, you should provide more details and a question.  as is, your statement doesn’t have a question and covers quite a broad area""
+"
+1321,"Maybe try the Google Places API?
+"
+1322,"
+"
+1323,"sweet thanks guys!; What would you recommend for importing csv and creating csv
+"
+1324,"
+"
+1325,"hmm seems like way beyond my use; isnt there some simple package you would recommend
+"
+1326,"None; I cant access with hash for some reason
+"
+1327,"""<@Taneka> <https://blog.sqreen.com/from-ruby-to-python/>; if you;re used to ruby, there will be alot more explicitness with python; ryby seems to like implicitness, whereas python is explicit""
+"
+1328,"That's my impression as well when I did ruby for a weekend
+"
+1329,"""Hi Guys,
+"
+1330,"&gt; About 3,130,000 results""
+"
+1331,"Yes can you explain what data you want to multiply row or column or full csv file ??
+"
+1332,"""hey guys! using the redis queue (rd.Queue), is it possible that a created job knows his id, when the processing method is called?""
+"
+1333,"you can use pandas library as well
+"
+1334,"but how can i let it read my file?
+"
+1335,"<@Teresa> the question is python
+"
+1336,"I recall reading some article saying neither; Oh I guess what I read is true <@Hiroko> thanks
+"
+1337,"• <https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/>
+"
+1338,"• <https://github.com/karan/Projects/>
+"
+1339,"
+"
+1340,"• <https://www.codetriage.com/?language=Python>
+"
+1341,"• <https://github.com/MunGell/awesome-for-beginners#python>""
+"
+1342,"""Hey has anyone tried this app Link Reminder? It's in the Slack `New &amp; Noteworthy` section: <http://r.labfortysix.com/link-reminder-1>
+"
+1343,"
+"
+1344,"""I’m using <https://github.com/python-mode/python-mode>
+"
+1345,"not sure if it has a solution for that problem.""
+"
+1346," r = <http://requests.post|requests.post>(url=""""<http://localhost:5000/todo/api/v1.0/tasks>"""", data={'title' : """"Third data""""})""
+"
+1347,"""seems like you are also missing flask part there; ```from flask import Flask
+"
+1348,"""I’ve had a look at that. My view seems to work, but the link I’m trying to create on my index page seems to be the culprit.""
+"
+1349,"Does anyone know how to let it just your own filename without the random name string? The TemporaryFile (not NamedTemporaryFile) function doesnt have a name attirbute so I can't use it in other functions""
+"
+1350,"but then the whole idea of having a temp file is gone...; it should be removed automatically after sending. so i have a send email function within the with tempfile as: context provider
+"
+1351,"""<@Roxie> I just used it, and found that some videos have no tags, as you mentioned. It's necessary to check in advance if tags are contained :smile:; <@Roxie> It would be nice if you could write the details of the error here : )""
+"
+1352,"isn't that more for running the whole think? my primary problem is that while editing a file pycharm gives me a yellow dotted line bellow variable names if they are unresolved references. i would prefer not having to run all unit tests to verify whether i made a typo in a variable.
+"
+1353,"""Hi thanks much for the reference; I have one more query. Some videos comments are disabled, how can I set the condition same like tags?; How can I check the condition if the comments are disabled""
+"
+1354,"I do use a mac for all of my testing.  Thanks huge for this!; <@Clemmie>
+"
+1355,"What do you call the first branch of a freshly minted repo? :thinking_face:; The dev process is product owner creates the repo and I as a dev creates branches that I work on.; `Initial-branch` / `first-branch` / `pineapple`?
+"
+1356,"
+"
+1357,"Im trying to get statistics for commentcount and comments text and comment id from snippet; The reason for this issue?; Where I'm went wrong
+"
+1358,"string
+"
+1359,"""please tell me if i am abusing this slack and channel by asking questions about the code? thank you.
+"
+1360,"This message was deleted.
+"
+1361,"this hit us pretty good with a refactor I did with some beat tasks; and passed code review
+"
+1362,"Thanks. I should have posted my question in Astropy so have done that now. 
+"
+1363,"""good bot; I have a function with a line that includes `org_client = boto3.client('organizations')` which is supposed to crawl through my Orgs AWS Accounts and list them.
+"
+1364,"so by specifying the access_key_id and secret_access_key it will point to that specific account vs my entire org?
+"
+1365,"if there are dependencies on anything besides the standard lib they are not simple scripts
+"
+1366,"What I’m talking about here is how to setup a dev/qa/prod environment
+"
+1367,"what up
+"
+1368,"
+"
+1369,"how do i get the checksum?
+"
+1370,"but in a more robust way?
+"
+1371,":thinking_face:
+"
+1372,"So <@Letty> how is this more robust than adding the venv’s python path in my `#!`?; For every script; Is it actually better?
+"
+1373,"I tried adjusting the batch size per the django docs to create limited amount of records at a time, but that seems to have no effect.
+"
+1374,"
+"
+1375,"Ok...; `results = ga.get(request=self.request)`; I assume this returns a Django queryset?; Or something from `values`?
+"
+1376,"""Gotcha ; <https://docs.djangoproject.com/en/2.2/ref/settings/#std:setting-CONN_MAX_AGE>; Do you have a setting for that?; Non-zero, I mean""
+"
+1377,"I did not; just set it to `None` now and will give it a try
+"
+1378,"""`""""CONN_MAX_AGE"""": None,` in the database settings still throws the error :disappointed:; reading up on that bug, am I missing something or was it closed without any fixes?""
+"
+1379,"Anyone around?
+"
+1380,"""I installed `cairo` and `py2cairo` it know gives this error ``` /home/roaa/anaconda3/envs/PhD/lib/python2.7/site-packages/graph_tool/draw/cairo_draw.py:1499: RuntimeWarning: Error importing Gtk module: No module named gi; GTK+ drawing will not work.
+"
+1381,"""<@Javier> as <@Ike> said, you're adding each item twice. But, in addition to that, if each `item` isn't just an int, float, or string, you'll likely have to provide a custom sorting key, which is just a function that takes an individual item, and returns the value you want it to be sorted by; <@Roxie> you'd have to give us more context, but the error tells you a likely reason for your problem.""
+"
+1382,"""How do you handle in celery running of a 2nd stage only when a 1st stage is complete.
+"
+1383,"what are the __values__ in python compared to powershell?
+"
+1384,"so it seems my function is returning the value twice.
+"
+1385,"One thing I wish I could do was just create Python desktop apps in visual studio with the same drag and drop controls I'd use in c#; there's iron python and all sorts of other things but they look ugly
+"
+1386,"""yeah, the two biggies are flask and django""
+"
+1387,"
+"
+1388,"thanks
+"
